@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Applications Now Open for the 2024 SEEKCommons Fellowship
-description: Description of our Fellowship opportunity
+description: SEEKCommons Fellowship opportunity
 show_tile: true
 image: assets/images/network-members.jpg
 nav-menu: true
@@ -43,7 +43,7 @@ To encourage engagement with critical and emerging topics in socio-environmental
 In order to be eligible for this fellowship program, you must:
 
 - Be currently enrolled in a graduate program, or hold a postdoctoral appointment, or be a professional practitioner working in a community-based organization;
-- Demonstrate clear alignment with the goals and objectives of the SEEKCommons project [SEEKCommons.org](https://seekcommons.org). This will be assessed via your application materials.
+- Demonstrate clear alignment with the goals and objectives of the [SEEKCommons project](https://seekcommons.org). This will be assessed via your application materials.
 
 Of the nine fellowships offered in each cohort, at least one will be reserved for:
 - An indigenous STS fellow working on the priority topics listed above under “potential research topics”
@@ -55,11 +55,10 @@ Of the nine fellowships offered in each cohort, at least one will be reserved fo
 To successfully engage in the fellowship opportunity, fellows will be expected to:
 
 - Be actively involved in fellow cohort activities including:
-
-    - Participation in once-monthly virtual cohort meetings (total of 9);
-    - Participation in at least 7 virtual workshops during the duration of the fellowship, with the option to join additional workshops;
-    - Engagement with mentors during the process of design, implementation, and completion of the proposed project;
-    - Participation in annual in-person SEEKCommons Network convening (travel funding provided).
+- Participation in once-monthly virtual cohort meetings (total of 9);
+- Participation in at least 7 virtual workshops during the duration of the fellowship, with the option to join additional workshops;
+- Engagement with mentors during the process of design, implementation, and completion of the proposed project;
+- Participation in annual in-person SEEKCommons Network convening (travel funding provided).
 - Work with SEEKcommons team and network members to curate content for the Resource Hub;
 - Document research work through public, multimedia formats (i.e. blogs, video, social media) so the benefits of the fellowship are shared publicly and widely;
 - Preparation of a final research product (i.e. peer-reviewed publication, software package, hardware project, white paper, website, data portal, conference poster/presentation). Post-docs will be required to pursue, at least, one peer-reviewed publication;
