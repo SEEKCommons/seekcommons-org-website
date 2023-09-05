@@ -67,7 +67,6 @@ SEEKCommons Fellows will benefit from these offerings:
 - Stipends: $8,000 graduate students, $12,000 post-docs and professionals
 - Mentorship from SEEKCommons project and network members
 - Training in OS, STS, and Socio-environmental research topics
-
 - Participation in virtual meetings and annual SEEKCommons convenings
 - Access to computing infrastructure (via SEEKCommons Lab)
 - Support for travel to one in-person SEEKCommons convening
