@@ -72,6 +72,7 @@ SEEKCommons Fellows will benefit from these offerings:
 - Support for travel to one in-person SEEKCommons convening
 
 **Applications due by October 15, 2023**
-Read our [FAQ](fellowship-faq.html) to learn more or [apply here](https://airtable.com/appIn7IkDUND83vC3/shrDl9Ot0H1gxAvbm).
+
+Read our [FAQ](fellowship-faq.html) to learn more and [apply here](https://airtable.com/appIn7IkDUND83vC3/shrDl9Ot0H1gxAvbm).
 
 SEEKCommons is a collaboration between partners at: University of Notre Dame, the Open Environmental Data Project, and the HDF Group. The project is made possible by a National Science Foundation FAIROS RCN grant (Award 2226425). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
