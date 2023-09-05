@@ -32,7 +32,7 @@ nav-menu: true
 					<h3>LF Murillo</h3>
 				</header>
 				<p>
-			        LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on “open technologies” for addressing social and environmental issues. Luis Felipe serves as PI of the SEEKCommons project, where he conducts research on open technology development for socio-environmental initiatives, advises graduate and undergraduate students, and contributes on the preparation of community workshops and events.</p>
+			        LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of the SEEKCommons project, where he conducts research on "open technology" development.</p>
 				
 				<ul class="actions">
 					<li><a href="https://lfrmurillo.online" class="button">More info</a></li>
@@ -86,7 +86,7 @@ nav-menu: true
                                 <p>
 				Natalie Meyers (she/her) is Professor of the Practice in the Lucy Family Institute for Data & Society at the University of Notre Dame and was E-Research Librarian at the University's Navari Family Center for Digital Scholarship from 2015-2022. Meyers's research focuses on FAIR data management and software preservation and sharing for model-driven research. Meyers served two years as a partnerships and integrations manager at the Center for Open Science (COS). Meyers is affiliated member of the GO FAIR US Support and Coordination Office team. Meyers helps coordinate the SEEKCommons Open Science network, mentors students and fellows, and develop the Resource Hub.</p> 
                                 <ul class="actions">
-                                        <li><a href="https://lucyinstitute.nd.edu/people/leadership-team/natalie-meyers" class="button">More info></a></li>
+                                        <li><a href="https://lucyinstitute.nd.edu/people/leadership-team/natalie-meyers" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
@@ -104,7 +104,7 @@ nav-menu: true
 				Katie Hoeberling (she/they) is the Director of Policy Initiatives at Open Environmental Data Project. Dedicated to open and cooperative approaches to science and policy, she creates spaces for researchers, communities, government, and tech to share knowledge, build trust, and work collectively to cultivate more just and healthier environments. Katie has a background in cooperative farm innovation, food labor organizing and policy, and carbon accounting. Katie is excited to organize SEEKCommons community convenings. She also supports the design and delivery of the network's fellowship program, Data Facilitators Consortium as well as overall management of the project.</p>
 
                                 <ul class="actions">
-                                        <li><a href="" class="button">More info</a></li>
+                                        <li><a href="https://www.openenvironmentaldata.org/people/katie-hoeberling" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
