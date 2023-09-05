@@ -2,7 +2,7 @@
 layout: post
 title: Applications Now Open for the 2024 Fellowship
 description: SEEKCommons Fellowship opportunity
-show_tile: true
+show_tile: false
 image: assets/images/network-members.jpg
 nav-menu: true
 ---
