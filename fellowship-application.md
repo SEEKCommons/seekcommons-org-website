@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Applications Now Open for the 2024 SEEKCommons Fellowship
+title: Applications Now Open for the 2024 Fellowship
 description: SEEKCommons Fellowship opportunity
 show_tile: true
 image: assets/images/network-members.jpg
@@ -52,11 +52,10 @@ Of the nine fellowships offered in each cohort, at least one will be reserved fo
 **Please review our SEEKCommons [Fellowship FAQ](fellowship-faq.html) for additional eligibility information**.
 
 ### Fellows’ Responsibilities
-To successfully engage in the fellowship opportunity, fellows will be expected to:
+To successfully participate in the fellowship program, fellows will be expected to be actively involved in cohort activities, including:
 
-- Be actively involved in fellow cohort activities including:
 - Participation in once-monthly virtual cohort meetings (total of 9);
-- Participation in at least 7 virtual workshops during the duration of the fellowship, with the option to join additional workshops;
+- Participation in, at least, 7 virtual workshops during the duration of the fellowship, with the option to join additional workshops;
 - Engagement with mentors during the process of design, implementation, and completion of the proposed project;
 - Participation in annual in-person SEEKCommons Network convening (travel funding provided).
 - Work with SEEKcommons team and network members to curate content for the Resource Hub;
