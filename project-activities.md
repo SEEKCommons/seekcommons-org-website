@@ -73,6 +73,7 @@ nav-menu: true
 				</header>
 				<p>
 		The SEEKCommons <a href = "https://seekcommons.org/fellowship-application.html">Fellowship</a> brings together graduate students and early-career researchers with new perspectives and voices to socio-environmental research with open technologies. The Fellowship program is designed to encourage new integrative practices involving environmental and climate action research with OS practices, and provide a space for fellows and network members to connect on research issues, challenges, and solutions.
+		For more information on how to apply, please click <a href = "https://seekcommons.org/fellowship-application.html">here</a>.
 				</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
