@@ -75,39 +75,38 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-	<a href="https://lucyinstitute.nd.edu/people/leadership-team/natalie-meyers" class="image">
-                        <img src="{% link assets/images/don.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>Don Brower</h3>
-                                </header>
-                                <p>
-			Don Brower (he/him) is a Computational Scientist at the University of Notre Dame's Center for Research Computing. His interests include ontologies, reproducibility, and ways to automate parts of the research data lifecycle. He has experience with data storage, preservation workflows, and software preservation. He has a Ph.D. in Mathematics and helps the SEEKCommons project as a Co-PI, leading the data management and stewardship tasks for the core team, the network members, and the research fellows.
-                                <ul class="actions">
-                                        <li><a href="https://research.nd.edu/people/donald-brower" class="button">More info</a></li>
-                                </ul>
-                        </div>
-                </div>
-        </section>
+	    <a href="https://research.nd.edu/people/donald-brower" class="image">
+            <img src="{% link assets/images/don.jpg %}" alt="" data-position="25% 25%" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Don Brower</h3>
+                </header>
+            <p>
+			Don Brower (he/him) is a Computational Scientist at the University of Notre Dame's Center for Research Computing. His interests include ontologies, reproducibility, and ways to automate parts of the research data lifecycle. He has experience with data storage, preservation workflows, and software preservation. Don is Co-PI of the SEEKCommons project, where he leads the data management and stewardship to assist the core team, the network members and the research fellows.</p>
+            <ul class="actions">
+                <li><a href="https://research.nd.edu/people/donald-brower" class="button">More info</a></li>
+            </ul>
+         </div>
+      </div>
+    </section>
 	<section>
-	<a href="generic.html" class="image">
-                        <img src="{% link assets/images/katie.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>Katie Hoeberling</h3>
-                                </header>
-                                <p>
-				Katie Hoeberling (she/they) is the Director of Policy Initiatives at Open Environmental Data Project. Dedicated to open and cooperative approaches to science and policy, she creates spaces for researchers, communities, government, and tech to share knowledge, build trust, and work collectively to cultivate more just and healthier environments. Katie has a background in cooperative farm innovation, food labor organizing and policy, and carbon accounting. Katie is excited to organize SEEKCommons community convenings. She also supports the design and delivery of the network's fellowship program, Data Facilitators Consortium as well as overall management of the project.</p>
-
-                                <ul class="actions">
-                                        <li><a href="https://www.openenvironmentaldata.org/people/katie-hoeberling" class="button">More info</a></li>
-                                </ul>
-                        </div>
-                </div>
+	<a href="https://www.openenvironmentaldata.org/people/katie-hoeberling" class="image">
+           <img src="{% link assets/images/katie.jpg %}" alt="" data-position="25% 25%" />
+    </a>
+    <div class="content">
+       <div class="inner">
+            <header class="major">
+                  <h3>Katie Hoeberling</h3>
+             </header>
+             <p>
+      		Katie Hoeberling (she/they) is the Director of Policy Initiatives at Open Environmental Data Project. Dedicated to open and cooperative approaches to science and policy, she creates spaces for researchers, communities, government, and tech to share knowledge, build trust, and work collectively to cultivate more just and healthier environments. Katie has a background in cooperative farm innovation, food labor organizing and policy, and carbon accounting. Katie is excited to organize SEEKCommons community convenings. She also supports the design and delivery of the network's fellowship program, Data Facilitators Consortium as well as overall management of the project.</p>
+             <ul class="actions">
+                <li><a href="https://www.openenvironmentaldata.org/people/katie-hoeberling" class="button">More info</a></li>
+             </ul>
+           </div>
+         </div>
         </section>
         <section>
         <a href="https://en.wikipedia.org/wiki/User:Bluerasberry" class="image">
@@ -145,7 +144,7 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                 </div>
         </section>
         <section>
-        <a href="" class="image">
+        <a href="https://michellecheripka.com" class="image">
                         <img src="{% link assets/images/michelle.jpg %}" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
