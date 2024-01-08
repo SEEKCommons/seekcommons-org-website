@@ -76,17 +76,17 @@ nav-menu: true
 	</section>
 	<section>
 	<a href="https://lucyinstitute.nd.edu/people/leadership-team/natalie-meyers" class="image">
-                        <img src="{% link assets/images/natalie.jpg %}" alt="" data-position="25% 25%" />
+                        <img src="{% link assets/images/don.jpg %}" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>Natalie Meyers</h3>
+                                        <h3>Don Brower</h3>
                                 </header>
                                 <p>
-				Natalie Meyers (she/her) is Professor of the Practice in the Lucy Family Institute for Data & Society at the University of Notre Dame and was E-Research Librarian at the University's Navari Family Center for Digital Scholarship from 2015-2022. Meyers's research focuses on FAIR data management and software preservation and sharing for model-driven research. Meyers served two years as a partnerships and integrations manager at the Center for Open Science (COS). Meyers is affiliated member of the GO FAIR US Support and Coordination Office team. Meyers helps coordinate the SEEKCommons Open Science network, mentors students and fellows, and develop the Resource Hub.</p> 
+			Don Brower (he/him) is a Computational Scientist at the University of Notre Dame's Center for Research Computing. His interests include ontologies, reproducibility, and ways to automate parts of the research data lifecycle. He has experience with data storage, preservation workflows, and software preservation. He has a Ph.D. in Mathematics and helps the SEEKCommons project as a Co-PI, leading the data management and stewardship tasks for the core team, the network members, and the research fellows.
                                 <ul class="actions">
-                                        <li><a href="https://lucyinstitute.nd.edu/people/leadership-team/natalie-meyers" class="button">More info</a></li>
+                                        <li><a href="https://research.nd.edu/people/donald-brower" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
