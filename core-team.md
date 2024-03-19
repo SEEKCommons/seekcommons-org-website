@@ -237,6 +237,6 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
         </section>
 </section>
 </div>
-Past Team Members:
-Natalie Meyer, Co-PI
-John Favini
+<p>Past Team Members:</p>
+<p>Natalie Meyer, Co-PI (January - December 2023)</p>
+<p>John Favini (September 2023 - January 2024)</p>
