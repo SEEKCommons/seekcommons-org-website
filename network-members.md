@@ -6,7 +6,7 @@ image: assets/images/network-members.jpg
 nav-menu: true
 ---
 
-Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. 
+Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this RCN, please see our [expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSfg6m_0IwqLBnZjNH-U0w0lL2x7hqZ5CgYhmcUcINdvvZQ1hQ/viewform).
 
 ### Gwen Ottinger
 
