@@ -202,7 +202,7 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
 
    <section>
         <a href="https://www.openenvironmentaldata.org/people/emelia-williams" class="image">
-                        <img src="{% link assets/images/EmeliaWilliams.jpg %}" alt="" data-position="25% 25%" />
+                        <img src="{% link assets/images/Emelia Williams.jpeg %}" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
