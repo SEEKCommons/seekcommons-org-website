@@ -179,3 +179,61 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
         </section>
 </section>
 </div>
+
+
+   <section>
+        <a href="https://anthropology.nd.edu/people/insha-bint-bashir/" class="image">
+                        <img src="{% link assets/images/insha.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>Insha Bint Bashir</h3>
+                                </header>
+				<p>Insha Bint Bashir (she/her) is a PhD student in Anthropology at the University of Notre Dame. Her research explores the intersection of digital surveillance, misinformation, and the erasure of archives in contexts of political conflict and settler colonialism. As a research fellow with the SEEKCommons project, Insha studies data protection and security, analyzes debates surrounding digital technologies for data sharing and protection, particularly in communities facing environmental and political challenges. She also curates the project’s resource library and examines literature on issues such as CARE principles, data sovereignty, open hardware, and community-based research. Through her work with SEEKCommons, Insha aims to integrate anthropological perspectives on power dynamics, cultural context, and local knowledge into the development and application of open science practices for environmental action.</p>
+                                <ul class="actions">
+                                        <li><a href="https://anthropology.nd.edu/people/insha-bint-bashir/" class="button">More info</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </section>
+</section>
+</div>
+
+   <section>
+        <a href="https://www.openenvironmentaldata.org/people/emelia-williams" class="image">
+                        <img src="{% link assets/images/EmeliaWilliams.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>Emelia Williams</h3>
+                                </header>
+				<p>Emelia (she/they) is the Policy and Research Associate at OEDP, first joining us in 2020 as the Civic Voice Fellow to support the initiative through research and prototype design. She is passionate about learning the ways local knowledge and data can confront the climate crisis, and how to build more equitable systems in the process. She is also currently a Civic Science Fellow with the Rita Allen Foundation. In 2020, she completed her master’s degree in Law and Diplomacy from The Fletcher School at Tufts University, specializing in climate policy. Before OEDP, Emelia worked in research and operations roles in energy access, urban agriculture, and experiential environmental education.</p>
+                                <ul class="actions">
+                                        <li><a href="https://www.openenvironmentaldata.org/people/emelia-williams" class="button">More info</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </section>
+</section>
+</div>
+
+   <section>
+        <a href="https://www.openenvironmentaldata.org/people/megan-zimroth" class="image">
+                        <img src="{% link assets/images/Megan.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>Megan Zimroth</h3>
+                                </header>
+				<p>Megan (she/her) joined Open Environmental Data Project in April 2023 to provide administrative support and comic relief (or at least she likes to think that). Prior to joining OEDP, Megan worked in journalism and media innovation, and before that, the nonprofit sector, as a project manager and producer of large conferences and events. She is also a master of IKEA furniture building, and once got yelled at by Kenny G.</p>
+                                <ul class="actions">
+                                        <li><a href="https://www.openenvironmentaldata.org/people/megan-zimroth" class="button">More info</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </section>
+</section>
+</div>
