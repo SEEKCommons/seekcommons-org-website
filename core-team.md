@@ -32,7 +32,7 @@ nav-menu: true
 					<h3>LF Murillo</h3>
 				</header>
 				<p>
-			        LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of the SEEKCommons project, where he conducts research on "open technology" development.</p>
+			        LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of SEEKCommons, where coordinates and integrates the different areas of the project.</p>
 				
 				<ul class="actions">
 					<li><a href="https://lfrmurillo.online" class="button">More info</a></li>
@@ -186,8 +186,8 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                                 <header class="major">
                                         <h3>Insha Bint Bashir</h3>
                                 </header>
-				<p>Insha Bint Bashir (she/her) is a PhD student in Anthropology at the University of Notre Dame. Her research explores the intersection of digital surveillance, misinformation, and the erasure of archives in contexts of political conflict and settler colonialism. As a research fellow with the SEEKCommons project, Insha studies data protection and security, analyzes debates surrounding digital technologies for data sharing and protection, particularly in communities facing environmental and political challenges. She also curates the project’s resource library and examines literature on issues such as CARE principles, data sovereignty, open hardware, and community-based research. Through her work with SEEKCommons, Insha aims to integrate anthropological perspectives on power dynamics, cultural context, and local knowledge into the development and application of open science practices for environmental action.</p>
-                                <ul class="actions">
+                            <p>Insha Bint Bashir (she/her) is a PhD student in Anthropology at the University of Notre Dame. Her research explores the intersection of digital surveillance, misinformation, and the erasure of archives in contexts of political conflict and settler colonialism. As a research fellow with the SEEKCommons project, Insha studies data protection and security, analyzes debates surrounding digital technologies for data sharing and protection, particularly in communities facing environmental and political challenges. She also curates the project’s public library and examines literature on issues such as CARE principles, data sovereignty, open tech, and community-based research. Through her work with SEEKCommons, Insha aims to integrate anthropological perspectives on power dynamics and local knowledge into open science practices for environmental action.</p>
+                            <ul class="actions">
                                         <li><a href="https://anthropology.nd.edu/people/insha-bint-bashir/" class="button">More info</a></li>
                                 </ul>
                         </div>
