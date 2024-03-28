@@ -177,11 +177,7 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                         </div>
                 </div>
         </section>
-</section>
-</div>
-
-
-   <section>
+        <section>
         <a href="https://anthropology.nd.edu/people/insha-bint-bashir/" class="image">
                         <img src="{% link assets/images/insha.jpg %}" alt="" data-position="25% 25%" />
                 </a>
@@ -197,10 +193,8 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                         </div>
                 </div>
         </section>
-</section>
-</div>
-
-   <section>
+ 
+        <section>
         <a href="https://www.openenvironmentaldata.org/people/emelia-williams" class="image">
                         <img src="{% link assets/images/emelia.jpg %}" alt="" data-position="25% 25%" />
                 </a>
@@ -216,10 +210,7 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                         </div>
                 </div>
         </section>
-</section>
-</div>
-
-   <section>
+        <section>
         <a href="https://www.openenvironmentaldata.org/people/megan-zimroth" class="image">
                         <img src="{% link assets/images/megan.jpg %}" alt="" data-position="25% 25%" />
                 </a>
@@ -237,6 +228,3 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
         </section>
 </section>
 </div>
-<p>Past Team Members:</p>
-<p>Natalie Meyer, Co-PI (January - December 2023)</p>
-<p>John Favini (September 2023 - January 2024)</p>
