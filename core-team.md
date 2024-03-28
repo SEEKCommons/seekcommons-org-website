@@ -221,7 +221,7 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
 
    <section>
         <a href="https://www.openenvironmentaldata.org/people/megan-zimroth" class="image">
-                        <img src="{% link assets/images/Megan.jpg %}" alt="" data-position="25% 25%" />
+                        <img src="{% link assets/images/megan.jpg %}" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
