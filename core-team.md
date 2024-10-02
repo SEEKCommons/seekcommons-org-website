@@ -51,7 +51,7 @@ nav-menu: true
 				</header>
 				<p>
 			    Dr. Hardin (she/her) is Associate Professor and Faculty Director for Justice, Equity, Diversity and Inclusion at the School for Environment and Sustainability (SEAS), University of Michigan. She teaches on environmental anthropology and justice and works to promote the integral nature of Justice, Equity, Diversity and Inclusion (JEDI) to environment and sustainability education, research, and engagement. This includes leading efforts to build SEAS’ online education capacity related to JEDI, for both academic and non-academic audiences. 
-                <p/>
+                </p>
 				<ul class="actions">
 					<li><a href="https://seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
 				</ul>
