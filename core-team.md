@@ -32,8 +32,8 @@ nav-menu: true
 					<h3>LF Murillo</h3>
 				</header>
 				<p>
-			        LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of SEEKCommons, where coordinates and integrates the different areas of the project.</p>
-				
+	            LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of SEEKCommons, where coordinates and integrates the different areas of the project.
+                </p>
 				<ul class="actions">
 					<li><a href="https://lfrmurillo.online" class="button">More info</a></li>
 				</ul>
@@ -41,18 +41,19 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.shannondosemagen.com" class="image">
-			<img src="{% link assets/images/shannon.jpg %}" alt="" data-position="top center" />
+		<a href="https://seas.umich.edu/research/faculty/rebecca-d-hardin" class="image">
+			<img src="{% link assets/images/rebecca.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Shannon Dosemagen</h3>
+					<h3>Rebecca Hardin</h3>
 				</header>
 				<p>
-				Shannon Dosemagen (she/her) is Director of Open Environmental Data Project. During her career, she has focused on building and sustaining open communities -- including Public Lab and the Gathering for Open Science Hardware -- to ensure open tools and practices are accessible to people addressing issues of environmental pollution and climate change. Shannon is responsible for the SEEKCommons network and design its fellowship program, Data Facilitators Consortium, and resource hub.</p>
+			    Dr. Hardin (she/her) is Associate Professor and Faculty Director for Justice, Equity, Diversity and Inclusion at the School for Environment and Sustainability (SEAS), University of Michigan. She teaches on environmental anthropology and justice and works to promote the integral nature of Justice, Equity, Diversity and Inclusion (JEDI) to environment and sustainability education, research, and engagement. This includes leading efforts to build SEAS’ online education capacity related to JEDI, for both academic and non-academic audiences. 
+                <p/>
 				<ul class="actions">
-					<li><a href="https://www.shannondosemagen.com" class="button">More info</a></li>
+					<li><a href="https://seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
 				</ul>
 			</div>
 		</div>
@@ -91,24 +92,7 @@ nav-menu: true
          </div>
       </div>
     </section>
-	<section>
-	<a href="https://www.openenvironmentaldata.org/people/katie-hoeberling" class="image">
-           <img src="{% link assets/images/katie.jpg %}" alt="" data-position="25% 25%" />
-    </a>
-    <div class="content">
-       <div class="inner">
-            <header class="major">
-                  <h3>Katie Hoeberling</h3>
-             </header>
-             <p>
-      		Katie Hoeberling (she/they) is the Director of Policy Initiatives at Open Environmental Data Project. Dedicated to open and cooperative approaches to science and policy, she creates spaces for researchers, communities, government, and tech to share knowledge, build trust, and work collectively to cultivate more just and healthier environments. Katie has a background in cooperative farm innovation, food labor organizing and policy, and carbon accounting. Katie is excited to organize SEEKCommons community convenings. She also supports the design and delivery of the network's fellowship program, Data Facilitators Consortium as well as overall management of the project.</p>
-             <ul class="actions">
-                <li><a href="https://www.openenvironmentaldata.org/people/katie-hoeberling" class="button">More info</a></li>
-             </ul>
-           </div>
-         </div>
-        </section>
-        <section>
+    <section>
         <a href="https://en.wikipedia.org/wiki/User:Bluerasberry" class="image">
                         <img src="{% link assets/images/lane.jpg %}" alt="" data-position="25% 25%" />
                 </a>
@@ -144,19 +128,19 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                 </div>
         </section>
         <section>
-        <a href="https://michellecheripka.com" class="image">
-                        <img src="{% link assets/images/michelle.jpg %}" alt="" data-position="25% 25%" />
+        <a href="https://ieeexplore.ieee.org/author/37089362784" class="image">
+                        <img src="{% link assets/images/ed.png %}" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>Michelle Cheripka</h3>
+                                        <h3>Ed Waisanen</h3>
                                 </header>
                                 <p>
-			        Michelle Cheripka (she/her) is an interdisciplinary media maker who is passionate about environmental justice, interdisciplinary collaboration, and community building. Through her work as Communications & Content Manager at Open Environmental Data Project (OEDP), she aims to uplift the personal lived experiences that lie within datasets to advocate for systemic change. In 2020, she completed her master’s in the Sociology of Media & Culture at the University of Cambridge, where she conducted research on storytelling devices in popular culture that inform cultural understandings around climate action. Michelle is contributing to the SEEKCommons project as a media expert, taking care of the communication strategies and media channels of the project.
+                                Ed Waisanen (he/him) received the B.A. degree in sociology/anthropology from Earlham College and the M.S. degree in natural resources and environment from the School of Natural Resources and Environment, University of Michigan. He is currently Platform and Program Manager for the Gala open learning initiative at the University of Michigan School for Environment and Sustainability where he is focused on developing open tools and communities that support dynamic, collaborative, learning and curriculum development. For SEEKCommons, he works on module developmenent and training on open technologies for environmental research. 
                                 </p>
                                 <ul class="actions">
-                                        <li><a href="https://michellecheripka.com" class="button">More info</a></li>
+                                        <li><a href="https://ieeexplore.ieee.org/author/37089362784" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
@@ -189,39 +173,6 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                             <p>Insha Bint Bashir (she/her) is a PhD student in Anthropology at the University of Notre Dame. Her research explores the intersection of digital surveillance, misinformation, and the erasure of archives in contexts of political conflict and settler colonialism. As a research fellow with the SEEKCommons project, Insha studies data protection and security, analyzes debates surrounding digital technologies for data sharing and protection, particularly in communities facing environmental and political challenges. She also curates the project’s public library and examines literature on issues such as CARE principles, data sovereignty, open tech, and community-based research. Through her work with SEEKCommons, Insha aims to integrate anthropological perspectives on power dynamics and local knowledge into open science practices for environmental action.</p>
                             <ul class="actions">
                                         <li><a href="https://anthropology.nd.edu/people/insha-bint-bashir/" class="button">More info</a></li>
-                                </ul>
-                        </div>
-                </div>
-        </section>
- 
-        <section>
-        <a href="https://www.openenvironmentaldata.org/people/emelia-williams" class="image">
-                        <img src="{% link assets/images/emelia.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>Emelia Williams</h3>
-                                </header>
-				<p>Emelia (she/they) is the Policy and Research Associate at OEDP, first joining us in 2020 as the Civic Voice Fellow to support the initiative through research and prototype design. She is passionate about learning the ways local knowledge and data can confront the climate crisis, and how to build more equitable systems in the process. She is also currently a Civic Science Fellow with the Rita Allen Foundation. In 2020, she completed her master’s degree in Law and Diplomacy from The Fletcher School at Tufts University, specializing in climate policy. Before OEDP, Emelia worked in research and operations roles in energy access, urban agriculture, and experiential environmental education.</p>
-                                <ul class="actions">
-                                        <li><a href="https://www.openenvironmentaldata.org/people/emelia-williams" class="button">More info</a></li>
-                                </ul>
-                        </div>
-                </div>
-        </section>
-        <section>
-        <a href="https://www.openenvironmentaldata.org/people/megan-zimroth" class="image">
-                        <img src="{% link assets/images/megan.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>Megan Zimroth</h3>
-                                </header>
-				<p>Megan (she/her) joined Open Environmental Data Project in April 2023 to provide administrative support and comic relief (or at least she likes to think that). Prior to joining OEDP, Megan worked in journalism and media innovation, and before that, the nonprofit sector, as a project manager and producer of large conferences and events. She is also a master of IKEA furniture building, and once got yelled at by Kenny G.</p>
-                                <ul class="actions">
-                                        <li><a href="https://www.openenvironmentaldata.org/people/megan-zimroth" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
