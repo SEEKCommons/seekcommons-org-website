@@ -27,7 +27,7 @@ Professional practitioners are people studying and working with open technologie
 
 **Do I need to be a U.S. citizen or resident to apply?**
 
-No, but most of our team and network members are located in or near EST time zone, and so fellows will need to be able to attend meetings and events in EST time zone (GMT -05:00).
+No, but most of our team and network members are located in or near the EST timezone, and so fellows will need to be able to attend meetings and events in EST timezone (GMT -05:00).
 
 **I am not based in the United States, am I eligible to apply for this Fellowship?**
 
@@ -47,10 +47,6 @@ Yes, we encourage applicants to apply so long as they have interest in applying 
 
 Yes, you will be asked to provide an affiliation in your application and disclose any other fellowship(s) you might have at the time. Please consider your availability based on other commitments in anticipation that fellows’ time commitment will be 3-5 hours at a minimum per week.
 
-**What educational background do I need to apply for the fellowship in the professional practitioner track?**
-
-Professional practitioners do not need to have a background in social sciences, but we will give priority to those who have experience with socio-environmental research. Experience with OS is highly desirable: we want to support fellows who are already working in this area and those who maintain OS projects that are relevant for advancing socio-environmental research. We highly encourage independent researchers and community organizers to apply.
-
 **I have not yet started my program (Postdoc or Ph.D.). Can I still apply for the fellowship?**
 
 Yes, as long as you plan to start a graduate program or postdoctoral position during the fellowship period, you can apply. Professional practitioners are exempt from this requirement.
@@ -67,7 +63,7 @@ Please submit your application through the [application page](https://seekcommon
 
 **Who do I contact if I have questions related to my application?**
 
-You can find all the information you need to apply via the documents provided about the application process. If you still have questions after reading these documents, please reach out to: megan@openenvironmentaldata.org
+You can find all the information you need to apply via the documents provided about the application process. If you still have questions after reading these documents, please reach out to Jessica Reyes (at Notre Dame).
 
 **I have an idea that seems relevant but doesn’t fit neatly in the topics listed. Should I still apply?**
 
@@ -76,10 +72,6 @@ Yes, we do not expect all applicants’ interests to fit neatly into the listed 
 **I am very interested in applying for the fellowship, but I lack specific technical knowledge to develop parts of my project. Can I still apply for the fellowship?**
 
 Yes, in the first several months of the fellowship the cohort will participate in workshops about data management, open scientific computing, and Wikidata for research, among other topics. These workshops are designed to provide primers for topics, methodologies, and tools you might use in your fellowship project. 
-
-**As a practitioner, I collect environmental data or use environmental research outputs, but I don’t have formal training in scientific research, data science, or with peer-reviewed publishing. Will I receive training in them?**
-
-If you are a practitioner, you do not need to have experience in scientific research. Fellows will be encouraged to consider venues other than peer-reviewed publishing to disseminate their work (see: [fellowship description](fellowship-application.html) for more information). If you are interested in learning more about research methods, our team and network members will offer several workshops that will be tailored for SEEKCommons Fellows. The fellowship program was designed to help you advance your project with the help of a network for scholars and practitioners in Open Science, STS, and Socio-environmental research.
 
 ## During the Fellowship
 
@@ -93,7 +85,7 @@ Fellows are required to meet at least once a month with their fellowship cohort 
 
 **Can I choose my mentor, or express a preference? Should I try to connect with a potential mentor before applying?**
 
-While the majority of mentors will come through the SEEKCommons RCN, if there is a mentor with whom you are interested in working, you may include the name in your fellowship application. 
+While the majority of mentors will come through the SEEKCommons Network, if there is a mentor with whom you are interested in working, you may include the name in your fellowship application. 
 
 **What resources will be available through the SEEKCommons Network to develop my project? What can I use my fellowship stipend on?**
 
@@ -113,7 +105,7 @@ Yes. We would like to encourage the fellows not only to study, but to practice O
 
 **When will I receive my stipend and from whom?**
 
-You will receive your fellowship stipend in two equal installments: (1) installment in month one and (1) installment in month five. Your fellowship stipend will come from Open Environmental Data Project, a US 501(c)3 not-for-profit. Reimbursement for fellow travel will be processed by University of Notre Dame. 
+You will receive your fellowship stipend in two equal installments: (1) installment in month one and (1) installment in month five. 
 
 ## After the Fellowship
 
@@ -121,10 +113,6 @@ You will receive your fellowship stipend in two equal installments: (1) installm
 
 Of course! We would like for all the previous fellows to join the SEEKCommons Network!
 
-**What kind of credit or certification will I receive for this fellowship?**
-
-Please contact your institution to inquire about course credit for the fellowship. If you require a certificate of participation or completion, OEDP can provide one upon request.
-
 **How do I list my fellowship on my CV or resumé?**
 
-An entry such as “Fellow of the National Science Foundation project, SEEKCommons (2024)” would be appropriate.
+An entry such as “Fellow of the National Science Foundation project, SEEKCommons (YEAR)” would be appropriate.
