@@ -82,26 +82,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-	<a href="" class="image">
-                        <img src="{% link assets/images/planet.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>Data Facilitators Consortium</h3>
-                                </header>
-                                <p>
-				The DFC is designed to build capacity to take on translational and facilitation skills, developing ways researchers can work in partnership with frontline communities. Our goal is to transform conventional models for training and pedagogy to center community perspectives and priorities, and support dialogue and multi-directional knowledge sharing.
-				</p>
-                                <!-- <ul class="actions">
-                                        <li><a href="generic.html" class="button">Learn more</a></li>
-                                </ul>
-                                -->
-                        </div>
-                </div>
-        </section>
-        <section>
+    <section>
         <a href="" class="image">
                         <img src="{% link assets/images/colmeia-bees.jpg %}" alt="" data-position="25% 25%" />
                 </a>
@@ -111,7 +92,7 @@ nav-menu: true
                                         <h3>Resource Hub</h3>
                                 </header>
                                 <p>
-                                Our Resource Hub will host tools, resources, and curricular modules for integrating FAIR, CARE, and other open science guidelines into participatory socio-environmental research.
+                                Our Hub will host tools, resources, and curricular modules for integrating common tools and frameworks for participatory governance of socio-environmental projects.
 				</p>
                                 <!-- <ul class="actions">
                                         <li><a href="generic.html" class="button">Learn more</a></li>
