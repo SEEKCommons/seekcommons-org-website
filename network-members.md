@@ -6,7 +6,11 @@ image: assets/images/network-members.jpg
 nav-menu: true
 ---
 
-Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this RCN, please see our [expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSfg6m_0IwqLBnZjNH-U0w0lL2x7hqZ5CgYhmcUcINdvvZQ1hQ/viewform).
+Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this Network, please see our form to [express your interest](https://nextcloud.unixjazz.org/apps/forms/MZb2t2fFPcAYGLxe).
+
+### Ciera Martinez
+
+**Ciera Martinez** is a Senior Program Manager with the Eric and Wendy Schmidt Center for Data Science and Environment (DSE) who focuses on data intensive research projects that aim to understand how life on this planet evolves in reaction to the environment and climate. A long-time open science advocate, Ciera has been involved with and continues to be interested in working on training for open data, education, publishing, and software, including developing community standards for data management practices.
 
 ### Gwen Ottinger
 
