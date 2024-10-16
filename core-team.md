@@ -75,23 +75,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-	    <a href="https://research.nd.edu/people/donald-brower" class="image">
-            <img src="{% link assets/images/don.jpg %}" alt="" data-position="25% 25%" />
-        </a>
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3>Don Brower</h3>
-                </header>
-            <p>
-			Don Brower (he/him) is a Computational Scientist at the University of Notre Dame's Center for Research Computing. His interests include ontologies, reproducibility, and ways to automate parts of the research data lifecycle. He has experience with data storage, preservation workflows, and software preservation. Don is Co-PI of the SEEKCommons project, where he leads the data management and stewardship to assist the core team, the network members and the research fellows.</p>
-            <ul class="actions">
-                <li><a href="https://research.nd.edu/people/donald-brower" class="button">More info</a></li>
-            </ul>
-         </div>
-      </div>
-    </section>
     <section>
         <a href="https://en.wikipedia.org/wiki/User:Bluerasberry" class="image">
                         <img src="{% link assets/images/lane.jpg %}" alt="" data-position="25% 25%" />
