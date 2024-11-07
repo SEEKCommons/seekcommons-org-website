@@ -6,10 +6,13 @@ image: assets/images/fellows.png
 nav-menu: true
 ---
 
+## 2025 Fellows
+
+Please follow this [link to apply for the 2025 Fellowship program](https://seekcommons.org/fellowship-application.html).
 
 ## 2024 Fellows
 
-Meet the SEEKCommons Fellows working on STS, Open Science and Socio-Environmental research projects. 
+Meet the former SEEKCommons Fellows working on STS, Open Science and Socio-Environmental research projects. 
 
 ### Jose Ramon Becerra Vera
 **Jose (he/him)** is a Ph.D. candidate in the Department of Anthropology at Purdue University, working in the Farmer Learning, Agriculture, Culture, Humanities, Social science laboratory. While pursuing his doctoral degree, Jose has held positions working on pollution issues and environmental justice across non-profits and government, including as a Yale University Environmental Fellow, with Chicago’s non-profit organization Elevate, and as a University of New Hampshire Sustainability Fellow with the U.S. Environmental Protection Agency. His dissertation uses qualitative ethnographic and quantitative exposure science instruments to examine the drivers of toxicity in ecological landscapes and uneven contamination exposure. Through his work across the social and environmental sciences, Jose aims to democratize science, contribute to community health, and advocate for environmental justice.
