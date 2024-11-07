@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEEKCommons + Tor Project: Partnership 
+title: Partnership SEEKCommons + Tor Project
 show_tile: false
 ---
 

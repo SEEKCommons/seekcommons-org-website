@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEEKCommons + Open Source Hardware Association: Partnership 
+title: Partnership SEEKCommons + Open Source Hardware Association
 show_tile: false
 ---
 This year we are reserving one fellowship slot to the topic of "open hardware sustainability" in partnership with the [Open Source Hardware Association](https://www.oshwa.org)!
