@@ -3,13 +3,12 @@ layout: post
 title: SEEKCommons + Tor Project: Partnership 
 show_tile: false
 ---
-### Partnership SEEKCommons + Tor Project
 
 This year we are reserving one fellowship to sustainability studies of community networks in partnership with the [Tor Project](https://www.torproject.org)!
 
 The Tor Project, Inc. is a 501(c)(3) nonprofit organization dedicated to advancing human rights and freedoms through free and open-source anonymity and privacy technologies. Tor-powered applications are used by millions of people every day, and the Tor network consists of more than 10,000 relays (nodes), operated and sustained independently by a decentralized, global community of contributors.
 
-#### Research Topics
+## Research Topics
 
 We welcome Fellowship applications on the sustainability of the Tor network with a focus on energy consumption and relay metadata (such as ASN, uptime, and platform). The goal of the partnership between SEEKCommons and Tor is to study the environmental impact of community networks and promote the use of renewable energy in decentralized infrastructures.
 
