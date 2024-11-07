@@ -50,15 +50,33 @@ nav-menu: true
 					<h3>Rebecca Hardin</h3>
 				</header>
 				<p>
-			    Dr. Hardin (she/her) is Associate Professor and Faculty Director for Justice, Equity, Diversity and Inclusion at the School for Environment and Sustainability (SEAS), University of Michigan. She teaches on environmental anthropology and justice and works to promote the integral nature of Justice, Equity, Diversity and Inclusion (JEDI) to environment and sustainability education, research, and engagement. This includes leading efforts to build SEAS’ online education capacity related to JEDI, for both academic and non-academic audiences. 
+                Trained as an environmental anthropologist, Hardin works at the intersection of Environmental and Digital Justice, leading an open source, open access learning environment named Gala. Her digital and environmental justice work engages in knowledge partnerships and collaborative research in South Africa, France, Ethiopia, Kenya, Gabon, the U.S., and Canada. Hardin works in teams of researchers from engineering to ecology and epidemiology, making innovations more inclusive, communications more effective, and education more collaborative. Hardin serves as Co-PI of the SEEKCommons project, where she is responsible for connecting the Gala platform with SEEKCommons research nework to enable more FAIR and CAREful knowledge practices and exchanges, most importantly supporting non-academic knowledge bearers' priorities and perspectives in addressing health, climate, food, energy and water challenges. 
                 </p>
 				<ul class="actions">
-					<li><a href="https://seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
+					<li><a href="seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+        <section>
+        <a href="https://fri.ucdavis.edu/people/sarah-rebolloso-mccullough" class="image">
+            <img src="{% link assets/images/sarah.jpg %}" alt="" data-position="top center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Sarah E. Rebolloso McCullough</h3>
+                </header>
+                <p>
+                Sarah Rebolloso McCullough, PhD creates meaningful and respectful dialogue across boundaries that typically divide—between universities and communities, activists and researchers, scientists and humanists, workers and policymakers. An expert in research culture and a seasoned connector, McCullough’s work is focused on promoting equity-based solutions to social problems. She has published on equity in bicycling, community engagement, and an assessment of transportation equity efforts in California. Her newest project studies the origins of mobility justice within a multiracial collective called the Untokening. She serves as Co-PI of the SEEKCommons project, where she contributes to the design and development of the Fellowship program. 
+                </p>
+                <ul class="actions">
+                    <li><a href="https://fri.ucdavis.edu/" class="button">More info</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>	
+    <section>
 		<a href="https://www.hdfgroup.org/team/gerd-heber" class="image">
 			<img src="{% link assets/images/gerd.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -93,6 +111,23 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                 </div>
         </section>
         <section>
+        <a href="https://fri.ucdavis.edu/people/mayra-sanchez-barba" class="image">
+                        <img src="{% link assets/images/mayra.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>Mayra Sánchez Barba</h3>
+                                </header>
+                                <p>
+                                Mayra Sánchez Barba works as the Research Program & Policy Manager at the UC Davis Feminist Research Institute. In this role, she is committed to developing more just and transformative research by working collaboratively with researchers and community members to center marginalized standpoints and unsettle dominant stories. She completed her PhD in Geography with a DE in Feminist Theory and Research Methods. Her scholarship has focused on the politics of knowledge in the making of toxic social and environmental disparities, and the ethics of everyday care work. This work draws from feminist theory, critical race theory, geographies of environmental justice, critical disability studies, and environmental humanities. More recently, she is interested in learning how we collectively cope with loss, and is inspired by indigenous knowledge and ecological science that center our interconnectedness to seek ways of living that nourish our ecologies and cultivate more liveable worlds.
+                                <ul class="actions">
+                                        <li><a href="https://fri.ucdavis.edu/people/mayra-sanchez-barba" class="button">More info</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </section>
+        <section>
         <a href="http://matias.milia.net" class="image">
                         <img src="{% link assets/images/matias.jpg %}" alt="" data-position="25% 25%" />
                 </a>
@@ -102,7 +137,7 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                                         <h3>Matias Milia</h3>
                                 </header>
                                 <p>
-				Matías F. Milia (he/him) is a postdoctoral affiliate at the University of Notre Dame's Anthropology department and Fellow of the Open Environmental Data Project. With a Ph.D. in Social Science Research from the Latin American Faculty of Social Sciences in Mexico, he studies the entanglements of data infrastructures, environmental challenges, knowledge circulation, and future-oriented research from a translational STS perspective. Matías is involved in projects on Open Science and Knowledge Circulation with colleagues in France, Africa, and Latin America. Matías is contributing to the research part of the SEEKCommons project, helping to map the collectives of technologists, environmental researchers and frontline community members working with Open Science technologies and infrastructures.
+				                Matías F. Milia (he/him) is a postdoctoral affiliate at the University of Notre Dame's Anthropology department and Fellow of the Open Environmental Data Project. With a Ph.D. in Social Science Research from the Latin American Faculty of Social Sciences in Mexico, he studies the entanglements of data infrastructures, environmental challenges, knowledge circulation, and future-oriented research from a translational STS perspective. Matías is involved in projects on Open Science and Knowledge Circulation with colleagues in France, Africa, and Latin America. Matías is contributing to the research part of the SEEKCommons project, helping to map the collectives of technologists, environmental researchers and frontline community members working with Open Science technologies and infrastructures.
 				</p>
                                 <ul class="actions">
                                         <li><a href="http://matias.milia.net" class="button">More info</a></li>
