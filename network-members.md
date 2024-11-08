@@ -8,7 +8,9 @@ nav-menu: true
 
 Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this Network, please see our form to [express your interest](https://nextcloud.unixjazz.org/apps/forms/MZb2t2fFPcAYGLxe).
 
-### Karl Benedict 
+Browse member profiles with these alphabetically ordered shortcuts: [A-H](#A) [I-O](#I) [P-Z](#P). 
+
+### Karl Benedict {#A}
 
 **Karl Benedict** has been working in geospatial technology and archaeology since 1986. Currently, he’s the Director of Research Data Services and an Associate Professor at the University of New Mexico’s College of University Libraries and Learning Sciences. Before this, he directed the Earth Data Analysis Center, combining roles in geography and library sciences. Karl has also worked with the US Forest Service and National Park Service, focusing on archaeological research and geospatial database development. Today, he helps UNM researchers manage their data effectively, ensuring that valuable research findings remain accessible and usable long after projects end.
 
@@ -51,7 +53,7 @@ With a background in rural sociology, development studies, and agricultural engi
 
 **Nancy Hoebelheinrich** is an independent scholar, information analyst, consultant and educator who leads her own small business, Knowledge Motifs LLC from San Mateo, California.  As an information science researcher and educator focused on data stewardship, organization, retrieval, management and skills training, and digital libraries, Nancy has been involved in a number of initiatives on these topics for academic institutions such as Stanford University, the University of California Office of the President, the University of California San Diego (UCSD), non-governmental organizations such as the San Francisco Estuary Institute, the Library of Congress, and community organizations including GO FAIR US, EarthCube, the Research Data Alliance, and Earth Science Information Partners.   Her focus has been upon data description (metadata), and development of learning resources for researchers and data specialists.
 
-### Erin Kansa
+### Erin Kansa {#I}
 Eric currently oversees the development of Open Context, an open-access data publishing service enhancing scholarship through the Open Web technologies at Alexandria Archive Institute (AAI), a non-profit technology company that preserves and shares world heritage on the Web. He explores Web architecture and service design in his work, particularly interested in the social and professional environments within the digital humanities. Eric has done research examining policy issues connected to intellectual property, with a special interest in text-mining and cultural property concerns. Eric has taught at the Berkeley School of Information’s Clinic program and has contributed to various initiatives in Open Science, Open Government, and cyberinfrastructure. 
 
 ### Abby J. Kinchy
@@ -86,7 +88,7 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Gwen Ottinger** is a research scholar at Drexel University. With an interest in environmental justice, expertise and authority, Gwen focuses on the intersection of science, technology, and society. She explores the role of emerging technologies' social and environmental implications, focusing on how communities engage with and shape scientific knowledge and developing opportunities to integrate research findings into practice. Her current work focuses on petrochemical pollution in collaboration with front-line community residents. 
 
-### Mark Parsons
+### Mark Parsons {#P}
 
 **Mark Parsons** is a Research Scientist and geographer at the University of Alabama in Huntsville. He has been involved in several initiatives to make scientific research more open and accessible and has led significant data stewardship efforts for over 25 years. Mark has helped coordinate stewardship of a broad range of data, from satellite remote sensing to Indigenous knowledge of Arctic change.
 
