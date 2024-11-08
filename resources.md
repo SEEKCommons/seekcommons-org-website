@@ -32,8 +32,9 @@ nav-menu: true
 					<h3>SEEKCommons Public Library</h3>
 				</header>
 				<p>
-			        We keep our references on Zotero and make them available for you to read, but also contribute. In our group library
-				you will find the references we use in the SEEKCommons project.
+			    We keep our references on Zotero and make them available for you to read, but also contribute. In our group library
+				you will find the references we use in the SEEKCommons project, but also, and more importantly, the publications of
+                interest from your research team, fellows, and network members.
 				</p>
 				<ul class="actions">
 					<li><a href="https://www.zotero.org/groups/4931993/seekcommons_public_library" class="button">Learn more</a></li>
@@ -42,19 +43,20 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://seekcommons.org" class="image">
+		<a href="https://zenodo.org/communities/seekcommons" class="image">
 			<img src="{% link assets/images/datamanagement.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data Management and Stewardship</h3>
+					<h3>SEEKCommon Project Data Management</h3>
 				</header>
 				<p>
-				MORE SOON
+			    In addition to the registration of SEEKCommons Network research outputs on Wikidata, we also deposit all the resource outputs of our project on Zenodo.
+                You can find here all the presentations, videos, and other materials that we have created in the context of the project.	
 				</p>
 				<ul class="actions">
-					<li><a href="https://seekcommons.org" class="button">Learn more</a></li>
+					<li><a href="https://zenodo.org/communities/seekcommons/records?q=&l=list&p=1&s=10&sort=newest" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -66,11 +68,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Open Technology Repository</h3>
+					<h3>Common Technology Repository</h3>
 				</header>
 				<p>
-				We make common our software, data, and hardware projects, which can be visited in our public 
-                                Github repository.
+				We make common our software, data, and hardware projects, which can be visited in our public Github repository.
+                Reach out to us if you would like to be included as a contributor.
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/SEEKCommons" class="button">Learn more</a></li>
