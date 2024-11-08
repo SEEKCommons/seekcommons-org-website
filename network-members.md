@@ -8,11 +8,24 @@ nav-menu: true
 
 Meet the SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this Network, please see our form to [express your interest](https://nextcloud.unixjazz.org/apps/forms/MZb2t2fFPcAYGLxe).
 
-### Philip E. Bourne
+### Karl Benedict 
+
+**Karl Benedict** has been working in geospatial technology and archaeology since 1986. Currently, he’s the Director of Research Data Services and an Associate Professor at the University of New Mexico’s College of University Libraries and Learning Sciences. Before this, he directed the Earth Data Analysis Center, combining roles in geography and library sciences. Karl has also worked with the US Forest Service and National Park Service, focusing on archaeological research and geospatial database development. Today, he helps UNM researchers manage their data effectively, ensuring that valuable research findings remain accessible and usable long after projects end.
+
+### Lisa Blackmore 
+
+**Lisa Blackmore** is a Senior Lecturer at the School of Philosophical, Historical, and Interdisciplinary Studies at the University of Essex (UK). Her work explores the relationship between humans and the environment, focusing on the intersections of politics, art, and architecture in Latin America and the Caribbean. She has taken a special interest in how authoritarian regimes affected bodies and landscapes, producing spaces of ruination and traces of violence in memory. She works with the Essex Collection of Art from Latin America (ESCALA), curating exhibitions and public programs for the University Gallery Art Exchange. Her projects merge practice and research, balancing writing and editing publications on the arts and ecology with curatorial and audiovisual projects. 
+
+### Philip E. Bourne 
 
 **Philip E. Bourne** is the founding dean of the U VA School of Data Science. He was the first Associate Vice Chancellor for Innovation and Industrial Alliances at the University of California San Diego and the first Associate Director for Data Science at the National Institutes of Health. He strongly supports open-access literature and software and researches primarily on bioinformatics, computational biology, and open science. Through his work, he has developed several tools and resources to help researchers analyze biological data. He is the co-founder of the Galaxy Project, which is a web-based platform for bioinformatics analysis.
 
+### Alberto Corsín Jiménez
+
+**Alberto Corsín Jiménez** is a Senior Scientist in the Department of Social Anthropology at the Spanish National Research Council in Madrid. He holds a DPhil from Oxford and a Masters from the London School of Economics and Political Science. In his work, he explores the intersection of anthropology and social studies of science and technology. His research focuses on the history of scientific designs and how social movements create infrastructures of autonomy in urban settings. Since January 2022, he has co-edited Cultural Anthropology. He has held leadership roles in various academic associations. Drawing on two decades of work with free culture collectives, his latest book "Free Culture and the City: Hackers, Commoners, and Neighbors in Madrid, 1997–2017" investigates the convergence of digital and urban liberation practices in Madrid and the diverse network of alliances that supported it. 
+
 ### Morgan DiCarlo
+
 Morgan DiCarlo is a civil engineer from  Stony Brook University with a PhD from North Carolina State University in the Sociotechnical Systems Analysis Lab. She also holds a master's in biological systems engineering from Virginia Tech. An advocate for STEM outreach and gender equity in the field, she has been a TEDx speaker and museum volunteer. In 2024, she was recognized as one of the 10 "New Faces" of Civil Engineering by ASCE (American Society of Civil Engineers). She joined the EPA as a science and technology policy fellow for the American Association for the Advancement of Science (AAAS), focusing on Translational Science and Climate Change Research. She is now a full-time Physical Scientist at the EPA. 
 
 ### M.V. Eitzel (Melissa)
@@ -25,6 +38,14 @@ With a background in rural sociology, development studies, and agricultural engi
 ### Scott Frickel
 
 **Scott Frickel** is a professor at Brown University. As a socio-environmental researcher, Scott explores the complex dynamics between science, society, and the environment. His research looks to answer questions about equity and environmental justice, informing decisions about environmental and public health. His current work develops computational methods and tools to generate historically geo-referenced databases on historical hazard land uses, connecting land uses to places of exposure for vulnerable populations.
+
+###  Kyle Harp-Rushing
+
+**Kyle Harp-Rushing** (He/Him) is a cultural anthropologist specializing in science and medicine's histories and cultures. He focuses on the co-productive relationships between emergent digital communication infrastructures and the techno-politics of "replicability crises" in the context of multiple Open Science movements. His ethnographic fieldwork with both nonprofit and for-profit Open Science advocates, developers, and networks (mainly in the US), as well as with experimental lab scientists, engaged the contingent technocultural contexts of experimental encounters to historicize and shed light on the participatory politics, ideologies, imaginaries, anxieties and (un)intended consequences of Open Science. He has experience with several interdisciplinary research teams, specially working to grow the "small data" of ethnographic conversations and observations into compelling stories and insights. 
+
+### Liz Henry 
+
+**Liz Henry** (they/them) heads the nonprofit organization Grassroots Open Assistive Tech, which aims to make DIY assistive technology designs and information available under open licenses. Liz is a hacker and makerspace enthusiast and founder, most closely involved with Noisebridge and Double Union in San Francisco. Liz also works in open source software at Mozilla as a technical program & release manager for Firefox and its developer toolchain. Additionally, Liz is a grantmaker and advisor; they are on the advisory board for San Francisco’s new Disability Cultural Center building, and work as grant program manager for progressive tech funds, including Disability Inclusion Fund x Tech.
 
 ### Nancy Hoebelheinrich
 
@@ -83,4 +104,6 @@ Seguna Shankar is an Assistant Professor in the Department of Information Scienc
 
 **Daniela Soleri** serves as a lecturer and researcher at UC Santa Barbara. Her research focuses on understanding local knowledge, practices, and outcomes in the management and use of crop plant diversity, particularly concerning climate change and environmental and social changes. She emphasizes the importance of equitable partnerships between scientists and practitioners, rooted in respect and mutual understanding, to enhance agricultural systems and address global challenges. Daniela has worked with diverse communities and published books on food gardening and gardens in changing climates and societies. She is researching seed libraries and community seed management to support grassroots seed sharing through participatory or community science initiatives.
 
+### Vincenzo Tozzi
 
+**Vincenzo Tozzi** comes from Sicily, where he still has his "first" family and collaborates with the BOCS cultural space. He is from Campania, the land of witches, where he dreams of an organic farm T3RRA. He became Brazilian 20 years ago, dreaming and fighting with the Mocambos Network. He is a network artisan at the Casa de Cultura Tainã and a breeder at Mercado Sul, where he matured as an _angoleiro_(a practitioner of Capoeira, in the Angola variant style) and as a marketer at the Eco Feira while supporting Rádio Mercado Sul and the Núcleo DPadua. He is a computer scientist at the Università degli Studi di Firenze, where he participated in the social and student movement Studenti di Sinistra, the Comitato Kurdistan, and the PoliOpposti newspaper. In 2005, when he arrived in Brazil, he worked in the Federal Government for a while, first at GESAC and then at the Presidency of the Republic. However, he preferred to return to living in the movement, and since 2007, he has coordinated the Digital Research and Development Group of the Mocambos Network. He is one of the creators of the Free Software Baobáxia. He works with people in Popular Culture and Agroecology and currently lives in Guapimirim with his partner and two wonderful daughters.
