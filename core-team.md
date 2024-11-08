@@ -50,7 +50,7 @@ nav-menu: true
 					<h3>Rebecca Hardin</h3>
 				</header>
 				<p>
-                Trained as an environmental anthropologist, Hardin works at the intersection of Environmental and Digital Justice, leading an open source, open access learning environment named Gala. Her digital and environmental justice work engages in knowledge partnerships and collaborative research in South Africa, France, Ethiopia, Kenya, Gabon, the U.S., and Canada. Hardin works in teams of researchers from engineering to ecology and epidemiology, making innovations more inclusive, communications more effective, and education more collaborative. Hardin serves as Co-PI of the SEEKCommons project, where she is responsible for connecting the Gala platform with SEEKCommons research nework to enable more FAIR and CAREful knowledge practices and exchanges, most importantly supporting non-academic knowledge bearers' priorities and perspectives in addressing health, climate, food, energy and water challenges. 
+                Trained as an environmental anthropologist, Hardin works at the intersection of Environmental and Digital Justice, leading an open source, open access learning environment named Gala. Her digital and environmental justice work engages in knowledge partnerships and collaborative research in South Africa, France, Ethiopia, Kenya, Gabon, the U.S., and Canada. Hardin works in teams of researchers from engineering to ecology and epidemiology, making innovations more inclusive, communications more effective, and education more collaborative. Hardin serves as Co-PI of the SEEKCommons project, where she is responsible for integrating the Gala platform with the SEEKCommons Resource Hub to enable more FAIR and CAREful knowledge practices, most importantly supporting non-academic knowledge bearers' priorities and perspectives in addressing health, climate, food, energy and water challenges. 
                 </p>
 				<ul class="actions">
 					<li><a href="seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
@@ -106,6 +106,24 @@ nav-menu: true
 Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science at the University of Virginia. His interests include popular science, consumer protection, civic engagement, access to health information, clinical research, the Open Movement, data science, LGBT history, and Wikimedia projects. Lane is contributing to the distribution of project key messages through Wikipedia, FAIR data indexing through Wikidata, ethical review, and diversity recruitment through the wiki platform and its network of open science supporters.</p>
                                 <ul class="actions">
                                         <li><a href="https://en.wikipedia.org/wiki/User:Bluerasberry" class="button">More info</a></li>
+                                </ul>
+                        </div>
+                </div>
+        </section>
+        <section>
+        <a href="https://mveitzel.org" class="image">
+                        <img src="{% link assets/images/mv.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+                <div class="content">
+                        <div class="inner">
+                                <header class="major">
+                                        <h3>Melissa "M.V." Eitzel</h3>
+                                </header>
+                                <p>
+                                MV's scholarship sits at the intersection of data science, participatory action research, and feminist Science and Technology Studies. She employs a variety of ecoinformatic tools to understand and improve the sustainability of complex social-ecological systems. MV also applies feminist STS lenses to modeling processes to see potential ways to make knowledge more accurate and impactful and social-ecological system management more just. MV works collaboratively with communities, teaching mapping and modeling skills, collaboratively building data representations and models, analyzing and synthesizing community-held data as appropriate. She uses contextualized mixed and integrative methods to create space for qualitative and other forms of knowledge to reside alongside quantitative analysis. For SEEKCommons, MV serves as a Co-PI responsible for the organization of convenings and workshops. 
+                                </p>
+                                <ul class="actions">
+                                        <li><a href="https://mveitzel.org" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
