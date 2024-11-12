@@ -63,7 +63,7 @@ Please submit your application through the [application page](https://seekcommon
 
 **Who do I contact if I have questions related to my application?**
 
-You can find all the information you need to apply via the documents provided about the application process. If you still have questions after reading these documents, please reach out to Jessica Reyes (at Notre Dame).
+You can find all the information you need to apply via the documents provided about the application process. If you still have questions after reading these documents, please reach out to fellowship coordinator, Mayra S. Barba (mgsanchez at ucdavis.edu).
 
 **I have an idea that seems relevant but doesn’t fit neatly in the topics listed. Should I still apply?**
 
