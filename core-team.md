@@ -117,10 +117,10 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                 <div class="content">
                         <div class="inner">
                                 <header class="major">
-                                        <h3>Melissa "M.V." Eitzel</h3>
+                                        <h3>MV Eitzel</h3>
                                 </header>
                                 <p>
-                                MV's scholarship sits at the intersection of data science, participatory action research, and feminist Science and Technology Studies. She employs a variety of ecoinformatic tools to understand and improve the sustainability of complex social-ecological systems. MV also applies feminist STS lenses to modeling processes to see potential ways to make knowledge more impactful and social-ecological system management more just. MV uses contextualized mixed and integrative methods to create space for qualitative and other forms of knowledge to reside alongside quantitative analysis. For SEEKCommons, MV serves as a Co-PI responsible for the organization of convenings, workshops, and training for the fellowship program. 
+                                MV's scholarship sits at the intersection of data science, participatory action research, and feminist Science and Technology Studies, employing a variety of ecoinformatic tools to understand and improve the sustainability of complex social-ecological systems. MV works collaboratively with communities to build data representations and models, supporting analysis and synthesis of community-held data as appropriate. MV also applies feminist STS lenses to modeling processes to see potential ways to make knowledge more impactful and social-ecological system management more just. MV uses contextualized mixed and integrative methods to create space for qualitative and other forms of knowledge to reside alongside quantitative analysis. For SEEKCommons, MV serves as a Co-PI responsible for organizing convenings, workshops, and training for the fellowship program. 
                                 </p>
                                 <ul class="actions">
                                         <li><a href="https://mveitzel.org" class="button">More info</a></li>
