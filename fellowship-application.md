@@ -18,7 +18,7 @@ The SEEKCommons Fellowship is an initiative to bring graduate students and early
 
 We are seeking 9 fellows for the 2025 SEEKCommons Fellowship. More details below:
 
-- [Application Form](https://form.jotform.com/243046438962159) ** Open: Nov. 7–Dec. 15, 2024 **
+- [Application Form](https://form.jotform.com/243046438962159) **Open: Nov. 7–Dec. 15, 2024**
 - Successful Fellows notified: Jan. 31, 2025
 - Fellowship begins: Feb. 10, 2025 
 - Fellowship ends: Nov. 10, 2025
