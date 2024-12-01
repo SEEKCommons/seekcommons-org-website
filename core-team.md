@@ -1,5 +1,5 @@
 ---
-title: Core Team
+title: Research Team
 layout: landing
 description: 'Meet the SEEKCommons core team'
 image: assets/images/team.jpg
