@@ -32,7 +32,7 @@ nav-menu: true
 					<h3>LF Murillo</h3>
 				</header>
 				<p>
-	            LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of SEEKCommons, where coordinates and integrates the different areas of the project.
+	            LF Murillo (he/him) is Assistant Professor in Anthropology at University of Notre Dame, where he also serves as fellow of the ND Technology Ethics Center and the Lucy Institute for Data and Society. His work has been dedicated to the anthropological study of computing with a focus on the design of common technologies for addressing social and environmental issues. LF Murillo serves as PI of SEEKCommons, guiding and integrating different components of the project.
                 </p>
 				<ul class="actions">
 					<li><a href="https://lfrmurillo.online" class="button">More info</a></li>
