@@ -3,25 +3,21 @@ layout: post
 title: Annual SEEKCommons Network Convenings
 show_tile: false
 ---
-## 2nd SEEKCommons Network Convening (2024)
+## SEEKCommons Network Convening (2024)
 
-_Welcome to the Annual Socio-Environmental Knowledge Commons Research Network Convening!_
+_Welcome to the 2nd Annual SEEKCommons Research Network Convening!_
 
-The SEEKCommons project is working to bridge the long-standing divides between environmental scientists, activists, FOSS technologists, and science and technology (STS) researchers to address and redress pressing social, technical, and environmental problems. For our second year of network-building activities, we will explore the __sustainability of Open Technologies and Open Science practices__.
+The SEEKCommons Network is bridging long-standing divides between environmental scientists, activists, FOSS technologists, and science and technology (STS) researchers by addressing common social, technical, and environmental problems. For our second year of network-building efforts, we will focus on the issue of __sustainability of Open Technologies and Open Science practices__.
 
-The plan is to discuss the challenges and promises of the work we are doing on socio-technical and environmental problems and decide on how to allocate our resources for advancing collaborative research on the socio-environmental commons for 2025.
+The plan is to discuss the challenges and promises of the work we are doing on the topic and decide on how to allocate resources for collaborative research in 2025.
 
 ### Convening Hotel
 
 **Hotel Shattuck Plaza Berkeley, 2086 Allston Way, Berkeley, CA 94704.**
 
-Reach out to Jessica Reyes for info about travel bookings and reimbursements.
-
 ### Convening Venue
 
 **UC Berkeley MaCSS, 2nd floor, 2121 Allston Way, Berkeley CA 94720.**
-
-Ciera and LF have key access to the building, reach to them if you cannot get in.
 
 ### Schedule 
 
@@ -55,6 +51,4 @@ Click [here]() to access other documents we prepared for this event, including t
 
 ### Organizing Team
 
-The event was organized this year by Erin Robinson, Ciera Martinez, Annie Snyder, Lane Rasberry, Jessica Reyes, and LF Murillo.
- 
-Thank you for all the other members of the SEEKCommons team for their help as well!
+The event was organized this year by Erin Robinson, Ciera Martinez, Annie Snyder, Lane Rasberry, Jessica Reyes, and LF Murillo. Special thanks to all the SEEKCommons project team members who provided help as well!
