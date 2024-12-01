@@ -12,7 +12,7 @@ How can Open Science (OS) contribute to the present and future of socio-environm
 
 Traditionally, biological and geo-physical studies of environmental dynamics have been siloed from social research. To create conditions for meaningful interdisciplinarity, we are building a network with socio-environmental organizers working on participatory knowledge-making, OS technologists designing common tools and methodologies, and STS researchers studying (and supporting) community-driven research. 
 
-To accomplish our goals, we are conducting the following activities as research network:
+To accomplish our goals as a research network, we are conducting the following activities:
 
 * **STS Research**: Empirical study of the current state of "Open Science" in socio-environmental research. This is one of the key components of the project that informs all the others.
 
