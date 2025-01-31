@@ -8,7 +8,7 @@ nav-menu: true
 
 ## 2025 Fellows
 
-Please follow this [link to apply for the 2025 Fellowship program](https://seekcommons.org/fellowship-application.html).
+The new cohort will be announced on February 10th, 2025!
 
 ## 2024 Fellows
 

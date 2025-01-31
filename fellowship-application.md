@@ -18,7 +18,7 @@ The SEEKCommons Fellowship is an initiative to bring graduate students and early
 
 We are seeking 9 fellows for the 2025 SEEKCommons Fellowship. More details below:
 
-- [Application Form](https://form.jotform.com/243046438962159) **Open: Nov. 7–Dec. 15, 2024**
+- [Application Form]() **Now closed**
 - Successful Fellows notified: Jan. 31, 2025
 - Fellowship begins: Feb. 10, 2025 
 - Fellowship ends: Nov. 10, 2025
@@ -48,11 +48,6 @@ In order to be eligible for this fellowship program, you must:
 - Be currently enrolled in a graduate program, or hold a postdoctoral appointment, or be a professional practitioner working in a community-based organization;
 - Demonstrate clear alignment with the goals and objectives of the [SEEKCommons project](https://seekcommons.org). This will be assessed via your application materials.
 
-Of the nine fellowships offered in each cohort, at least one will be reserved for:
-
-- An indigenous STS fellow working on the priority topics listed above under “potential research topics”
-- An applicant that engages with the research questions elaborated in partnership with OSHWA or Tor Project.
-
 **Please review our SEEKCommons [Fellowship FAQ](fellowship-faq.html) for additional eligibility information**.
 
 ### Fellows’ Responsibilities
@@ -77,6 +72,6 @@ SEEKCommons Fellows will benefit from these offerings:
 
 Applications due by Dec. 15, 2024
 
-Read our [FAQ](fellowship-faq.html) to learn more and [apply here](https://form.jotform.com/243046438962159).
+Read our [FAQ](fellowship-faq.html) to learn more.
 
 SEEKCommons is a collaboration between partners at: University of Notre Dame, University of California Davis, University of Michigan, University of Virginia, and the HDF Group. The project is made possible by a National Science Foundation FAIROS RCN grant (Award 2226425). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
