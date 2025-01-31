@@ -50,10 +50,10 @@ nav-menu: true
 					<h3>Rebecca Hardin</h3>
 				</header>
 				<p>
-                Trained as an environmental anthropologist, Hardin works at the intersection of Environmental and Digital Justice, leading an open source, open access learning environment named Gala. Her digital and environmental justice work engages in knowledge partnerships and collaborative research in South Africa, France, Ethiopia, Kenya, Gabon, the U.S., and Canada. Hardin works in teams of researchers from engineering to ecology and epidemiology, making innovations more inclusive, communications more effective, and education more collaborative. Hardin serves as Co-PI of the SEEKCommons project, where she is responsible for integrating the Gala platform with the SEEKCommons Resource Hub to enable more FAIR and CAREful knowledge practices, most importantly supporting non-academic knowledge bearers' priorities and perspectives in addressing health, climate, food, energy and water challenges. 
+                Trained as an environmental anthropologist, Hardin works at the intersection of Environmental and Digital Justice, leading an open source, open access learning environment named Gala. Her digital and environmental work engages in knowledge partnerships and collaborative research in South Africa, France, Ethiopia, Kenya, Gabon, the U.S. and Canada. Hardin works in teams of researchers from engineering to ecology and epidemiology, making innovations more inclusive, communications more effective, and education more collaborative. Hardin serves as Co-PI of the SEEKCommons project, where she is responsible for integrating the Gala platform with the SEEKCommons Resource Hub to enable more FAIR and CAREful knowledge practices, supporting non-academic knowledge bearers' priorities and perspectives in addressing health, climate, food, energy and water challenges. 
                 </p>
 				<ul class="actions">
-					<li><a href="seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
+					<li><a href="https://seas.umich.edu/research/faculty/rebecca-d-hardin" class="button">More info</a></li>
 				</ul>
 			</div>
 		</div>
@@ -68,7 +68,7 @@ nav-menu: true
                     <h3>Sarah E. Rebolloso McCullough</h3>
                 </header>
                 <p>
-                Sarah Rebolloso McCullough, PhD creates meaningful and respectful dialogue across boundaries that typically divide—between universities and communities, activists and researchers, scientists and humanists, workers and policymakers. An expert in research culture and a seasoned connector, McCullough’s work is focused on promoting equity-based solutions to social problems. She has published on equity in bicycling, community engagement, and an assessment of transportation equity efforts in California. Her newest project studies the origins of mobility justice within a multiracial collective called the Untokening. She serves as Co-PI of the SEEKCommons project, where she contributes to the design and development of the Fellowship program. 
+                Sarah Rebolloso McCullough creates meaningful and respectful dialogue across boundaries that typically divide—between universities and communities, activists and researchers, scientists and humanists, workers and policymakers. An expert in research culture and a seasoned connector, McCullough’s work is focused on promoting equity-based solutions to social problems. She has published on equity in bicycling, community engagement, and an assessment of transportation equity efforts in California. Her newest project studies the origins of mobility justice within a multiracial collective called the Untokening. She serves as Co-PI of the SEEKCommons project, where she contributes to the design and development of the Fellowship program. 
                 </p>
                 <ul class="actions">
                     <li><a href="https://fri.ucdavis.edu/" class="button">More info</a></li>
@@ -106,24 +106,6 @@ nav-menu: true
 Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science at the University of Virginia. His interests include popular science, consumer protection, civic engagement, access to health information, clinical research, the Open Movement, data science, LGBT history, and Wikimedia projects. Lane is contributing to the distribution of project key messages through Wikipedia, FAIR data indexing through Wikidata, ethical review, and diversity recruitment through the wiki platform and its network of open science supporters.</p>
                                 <ul class="actions">
                                         <li><a href="https://en.wikipedia.org/wiki/User:Bluerasberry" class="button">More info</a></li>
-                                </ul>
-                        </div>
-                </div>
-        </section>
-        <section>
-        <a href="https://mveitzel.org" class="image">
-                        <img src="{% link assets/images/mv.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>MV Eitzel</h3>
-                                </header>
-                                <p>
-                                MV's scholarship sits at the intersection of data science, participatory action research, and feminist Science and Technology Studies, employing a variety of ecoinformatic tools to understand and improve the sustainability of complex social-ecological systems. MV works collaboratively with communities to build data representations and models, supporting analysis and synthesis of community-held data as appropriate. MV also applies feminist STS lenses to modeling processes to see potential ways to make knowledge more impactful and social-ecological system management more just. MV uses contextualized mixed and integrative methods to create space for qualitative and other forms of knowledge to reside alongside quantitative analysis. For SEEKCommons, MV serves as a Co-PI responsible for organizing convenings, workshops, and training for the fellowship program. 
-                                </p>
-                                <ul class="actions">
-                                        <li><a href="https://mveitzel.org" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
@@ -177,22 +159,6 @@ Lane Rasberry (he/him) is Wikimedian-in-residence at the School of Data Science 
                                 </p>
                                 <ul class="actions">
                                         <li><a href="https://ieeexplore.ieee.org/author/37089362784" class="button">More info</a></li>
-                                </ul>
-                        </div>
-                </div>
-        </section>
-        <section>
-        <a href="https://www.hdfgroup.org/team/john-readey" class="image">
-                        <img src="{% link assets/images/john.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-                <div class="content">
-                        <div class="inner">
-                                <header class="major">
-                                        <h3>John Readey</h3>
-                                </header>
-				<p>John Readey (he/him) has been a Senior Architect at The HDF Group since he joined in June 2014. His interests include web services related to HDF, cloud computing, and applications that support the use of HDF and data visualization. Prior to joining The HDF Group, John worked at Amazon.com from 2006-2014 where he developed service-based systems for eCommerce and AWS. John graduated from Ohio State University with Master’s degrees in Mathematics and Computer Science. John contributes to the SEEKCommons project with development and training of Open Science technologies, such as HDF5 and Highly Scalable Data Service (HSDS).</p>
-                                <ul class="actions">
-                                        <li><a href="https://www.hdfgroup.org/team/john-readey/" class="button">More info</a></li>
                                 </ul>
                         </div>
                 </div>
