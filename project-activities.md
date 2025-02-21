@@ -69,7 +69,7 @@ nav-menu: true
 				<header class="major">
 				<h3><a href = "https://seekcommons.org/fellowship-application.html">SEEKCommons Fellowships</a></h3>
 				</header>
-				<p>The SEEKCommons <a href = "https://seekcommons.org/fellowship-application.html">Fellowship</a> brings together graduate students and early-career researchers with new perspectives and voices to socio-environmental research with open technologies. The Fellowship program is designed to encourage new integrative practices involving environmental and climate action research with OS practices, and provide a space for fellows and network members to connect on research issues, challenges, and solutions. For more information on how to apply, please click <a href = "https://seekcommons.org/fellowship-application.html">here</a>.
+				<p>The SEEKCommons <a href = "https://seekcommons.org/fellows.html">Fellowship</a> brings together graduate students and early-career researchers with new perspectives to socio-environmental research with open technologies. The Fellowship program is designed to encourage integrative practices involving environmental research with OS practices, and provide a space for fellows and network members to collaborate on common research challenges.
 				</p>
 				<ul class="actions">
 			        <li><a href="https://seekcommons.org/fellows.html" class="button">Learn more</a></li>
@@ -86,7 +86,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Resource Hub</h3>
                 </header>
-                <p>Our Hub hosts references to research tools, resources, and curricular modules on the participatory governance of socio-environmental projects. We have worked to document and deposit research outputs from our Network members on Wikidata (to increase their findability). We have also created a module of Gala (the sustainability education platform) to access the linked data we curated. The ultimate goal of our Hub is to provide easy access to all the research outputs of our Network in a way that is well-aligned with the goals of data management and stewardship that we can find in FAIR/CARE/Commons principles.
+                <p>Our Hub hosts references to research tools, resources, and curricular modules on the participatory governance of socio-environmental projects. We have worked to document and deposit research outputs from our Network members on Wikidata (to increase their findability). We have also created a module of Gala (the sustainability education platform) to access the linked data we curated. Our goal is to provide easy access to all the research outputs of our Network in a way that is well-aligned with the goals of data management and stewardship that we can find in FAIR/CARE/Commons principles.
                 </p>
                 <ul class="actions">
                     <li><a href="https://github.com/SEEKCommons/resource-hub" class="button">Learn more</a></li>

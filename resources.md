@@ -49,7 +49,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SEEKCommon Project Data Management</h3>
+					<h3>SEEKCommon Data Management</h3>
 				</header>
 				<p>
 			    In addition to the registration of SEEKCommons Network research outputs on Wikidata, we also deposit all the resource outputs of our project on Zenodo.
