@@ -5,7 +5,7 @@ description: Meet our research fellows
 image: assets/images/fellows.png
 nav-menu: true
 ---
-Meet the SEEKCommons Fellows (2024-2025) working on STS, Open Science and Socio-Environmental research projects.
+Meet the fellows working on STS, Open Science and Socio-Environmental research projects.
 
 ## 2025 Fellows
 
