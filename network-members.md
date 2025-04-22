@@ -93,23 +93,25 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Mark Parsons** is a Research Scientist and geographer at the University of Alabama in Huntsville. He has been involved in several initiatives to make scientific research more open and accessible and has led significant data stewardship efforts for over 25 years. Mark has helped coordinate stewardship of a broad range of data, from satellite remote sensing to Indigenous knowledge of Arctic change.
 
-### Karl Benedict 
-
-**Karl Benedict** has been working in geospatial technology and archaeology since 1986. Currently, he’s the Director of Research Data Services and an Associate Professor at the University of New Mexico’s College of University Libraries and Learning Sciences. Before this, he directed the Earth Data Analysis Center, combining roles in geography and library sciences. Karl has also worked with the US Forest Service and National Park Service, focusing on archaeological research and geospatial database development. Today, he helps UNM researchers manage their data effectively, ensuring that valuable research findings remain accessible and usable long after projects end.
-
 ### Kathy Pope
 
 **Kathy Pope** serves as the Environmental Protection Network's Development Director and Community Outreach Manager. At EPN, Kathy manages EPN's development work and the pro bono capacity-building technical assistance program, with more than 550 EPA alumni from all over the United States that volunteer their time to protect the integrity of EPA, human health, and the environment.
 
 ### Bárbara Rocha Cardeli
+
 **Bárbara Rocha Cardeli** is a PhD researcher working in entanglements of ecology, technology, and society. She holds a degree in Biological Sciences from the Pontifical Catholic University of Campinas (PUC-Campinas) and a master’s in Ecology and Biodiversity from Sao Paulo State University (UNESP). Currently, as a PhD student in Ecology at the State University of Campinas (Unicamp), her project explores the impacts of climate change on functional diversity and ecosystem services in the Brazilian Amazon.
 
 ### Saguna Shankar
+
 **Seguna Shankar** is an Assistant Professor in the Department of Information Science at the University at Buffalo, specializing in community data care, information practice, information policy, and interdependence. With a Ph.D. from the University of British Columbia (2023) and a MLIS (2016) from the same institution, Saguna combines extensive academic training with a deep commitment to practical applications in information science. Recognized for scholarly excellence, she has received the CAIS (Canadian Association for Information Science), the Eugene Garfield Doctoral Dissertation Competition offered by ALISE (Association for Library and Information Science Education), and the ASIS&T (Association for Information Science and Technology) Doctoral Dissertation Award. 
 
 ### Daniela Soleri
 
 **Daniela Soleri** serves as a lecturer and researcher at UC Santa Barbara. Her research focuses on understanding local knowledge, practices, and outcomes in the management and use of crop plant diversity, particularly concerning climate change and environmental and social changes. She emphasizes the importance of equitable partnerships between scientists and practitioners, rooted in respect and mutual understanding, to enhance agricultural systems and address global challenges. Daniela has worked with diverse communities and published books on food gardening and gardens in changing climates and societies. She is researching seed libraries and community seed management to support grassroots seed sharing through participatory or community science initiatives.
+
+### Yunus Doğan Telliel
+
+**Yunus Doğan Telliel** is a cultural anthropologist at Worcester Polytechnic Institute. With a strong interest in transdisciplinary research inquiries, his work focuses on the design of human-computer interactions. He traces alternative and critical design imaginaries in AI and robotics research, and he is an advocate of public interest robotics in environmental science and governance. At Worcester Polytechnic Institute, he has been collaborating with engineering faculty and graduate students on his educational experiments that seek to incorporate qualitative research methods and community-based science into STEM education.   
 
 ### Vincenzo Tozzi
 
