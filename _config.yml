@@ -1,8 +1,8 @@
 # site settings
-title: SEEKCommons 
+title: National Science Foundation | SEEKCommons 
 subtitle: Socio-Environmental Knowledge Commons project 
 email: seekcommons-team-list@googlelists.com
-description: SEEKCommons is a National Science Foundation sponsored project
+description: SEEKCommons is a U.S. National Science Foundation sponsored project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://seekcommons.org # the base hostname & protocol for your site
 author: SEEKCommons team
