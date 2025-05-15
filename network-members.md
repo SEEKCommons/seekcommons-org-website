@@ -32,6 +32,14 @@ Morgan DiCarlo is a civil engineer from  Stony Brook University with a PhD from 
 
 With a background in rural sociology, development studies, and agricultural engineering, **Oscar Figueroa R.** has been working issues related to the governance of Indigenous data globally, with a special interest in Mexico and Latin America. An original signee of the CARE Principles and a member of the Global Indigenous Data Alliance, he is interested in enhancing ways to assert Indigenous Peoples' rights and interests in data. Originally from Texcoco, State of Mexico, he serves as an Associate Research Professor in the Rural Development Studies Program at the *Colegio de Posgraduados* (COLPOS, México), working from a complex systems perspective to study the commons, participatory planning, and regional development. 
 
+### Alicia Gibb
+
+**Alicia Gibb** is an advocate for open hardware, researcher, and a hardware hacker. Alicia has worked within the open source hardware community since 2008. She is the founder and Executive Director of the Open Source Hardware Association (OSHWA), a non-profit organization to educate the benefits of building and using open source hardware. Alicia founded the Association after founding and chairing the Open Hardware Summit, a conference where the open source hardware community discusses business, manufacturing, legal implications, and all things open source hardware.
+
+### Benjamin Goering
+
+**Benjamin Goering** is a decentralized and federated web engineer who previously worked for Protocol Labs. Ben brings his experience with “dweb” to the work we are doing to build common infrastructures and protocols for collaborative socio-environmental research. He has been active in the San Francisco Bay Area in various community initiatives, including most notably ActivityPub.
+
 ### Scott Frickel
 
 **Scott Frickel** is a professor at Brown University. As a socio-environmental researcher, Scott explores the complex dynamics between science, society, and the environment. His research looks to answer questions about equity and environmental justice, informing decisions about environmental and public health. His current work develops computational methods and tools to generate historically geo-referenced databases on historical hazard land uses, connecting land uses to places of exposure for vulnerable populations.
@@ -72,6 +80,9 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Madhuri Karak** (she/her) is an independent multimedia researcher working at the intersections of climate, technology, and culture. With regional expertise in South and Southeast Asia, she has supported earth defenders, small-scale fishers and farmers, environmental and climate organizers, and digital rights practitioners to secure and manage the commons for collective wellbeing. Spanning landscape research, podcasts, narrative longform, and strategic community engagement, her work explores the growing overlap between climate justice and digital rights issues. Her current project 'Beyond Carbon: Using Multi-sensory Datasets for Climate Action' is an art and research initiative designed to counter carbon-centered forest data infrastructures with visual experiments that unite community-owned knowledges of landscapes with Lidar data. Madhuri was a Mellon - American Council of Learned Societies Public Fellow (2019-2021) and has a Ph.D. in Cultural Anthropology from The Graduate Center, City University of New York. 
 
+### Ryan McGranaghan
+
+**Ryan McGranaghan** is a Data Scientist and Research Scientist at NASA's Jet Propulsion Laboratory. There, he focuses on machine learning and instrument autonomy to enhance Earth and Space Sciences. As a core team member of the NASA Transformation to Open Science (TOPS) initiative, he promotes accessibility and inclusivity in scientific research. With a background as Principal Data Scientist at Orion Space Solutions, Ryan combines traditional space physics with innovative data science methods. He has received prestigious fellowships, including the NSF Graduate Research Fellowship and the NASA Jack Eddy Fellowship. Ryan is also the creator and host of The Origins Podcast, fostering interdisciplinary connections for scientific growth.
 
 ### Ciera Martinez
 
@@ -97,6 +108,10 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Kathy Pope** serves as the Environmental Protection Network's Development Director and Community Outreach Manager. At EPN, Kathy manages EPN's development work and the pro bono capacity-building technical assistance program, with more than 550 EPA alumni from all over the United States that volunteer their time to protect the integrity of EPA, human health, and the environment.
 
+### Alejandro Ponce de León
+
+**Alejandro Ponce de León** is an educator at UC Berkeley, Education dept. He is a researcher and editor, whose work and practice intersect the environmental humanities, technoscience studies, and citizen science education. He is also the founding editor of "Environmental Humanities."
+
 ### Bárbara Rocha Cardeli
 
 **Bárbara Rocha Cardeli** is a PhD researcher working in entanglements of ecology, technology, and society. She holds a degree in Biological Sciences from the Pontifical Catholic University of Campinas (PUC-Campinas) and a master’s in Ecology and Biodiversity from Sao Paulo State University (UNESP). Currently, as a PhD student in Ecology at the State University of Campinas (Unicamp), her project explores the impacts of climate change on functional diversity and ecosystem services in the Brazilian Amazon.
@@ -116,3 +131,14 @@ Eric currently oversees the development of Open Context, an open-access data pub
 ### Vincenzo Tozzi
 
 **Vincenzo Tozzi** comes from Sicily, where he still has his "first" family and collaborates with the BOCS cultural space. He is from Campania, the land of witches, where he dreams of an organic farm T3RRA. He became Brazilian 20 years ago, dreaming and fighting with the Mocambos Network. He is a network artisan at the Casa de Cultura Tainã and a offspring of the Mercado Sul, where he matured as an _angoleiro_ (a practitioner of Capoeira in the Angola variant style). He is a computer scientist, graduated from the Università degli Studi di Firenze, where he participated in the social and student movement Studenti di Sinistra, the Comitato Kurdistan, and the PoliOpposti newspaper. In 2005, he worked in the Federal Government, first at GESAC and then at the Presidency of the Republic. Since 2007, he has coordinated the Digital Research and Development Group of the Mocambos Network. He is one of the creators of the Free Software Baobáxia. He works with people in Popular Culture and Agroecology and currently lives in Guapimirim, Rio de Janeiro with his partner and two wonderful daughters.
+
+### Emilio Velis
+
+**Emilio Velis** is the Executive Director of the Appropedia Foundation, an organization that promotes access to knowledge on sustainability and poverty reduction, applying his experience in community development, open hardware and open licensing. Emilio advocates for the responsible use of new technologies to solve global issues that range from community violence to climate change and contributes to various organizations and networks in these subjects. He has mentored, done research and taught at the undergraduate and masters level regarding these subjects. His research includes topics related to community empowerment, collaborative methodologies for open-source documentation, and the importance of open knowledge for science and social impact.
+
+### Jeff Ward
+
+**Jeff Ward** is the founder and Chief Executive Officer of Animikii, an Indigenous technology company committed to values that foster mutual understanding and equity. The company is responsible for developing Niiwin, an Indigenous Sovereignty platform that facilitates the creation of learning communities and complex, data-driven storytelling applications. Niiwin also serves as the foundation for many custom and culturally safer software solutions, developed in collaboration with partners and users. Jeff founded Animikii in 2003 and has orchestrated and managed its growth ever since. Everything Jeff does in business is geared towards uplifting his family, communities, and Indigenous Peoples. He is Ojibwe and Métis, originally from Manitoba, and now lives and works in Victoria, BC, on Lekwungen territory. Jeff is a web designer, software developer, author, and speaker. He also serves as a board member for Aboriginal Peoples Television Network (APTN).
+
+
+
