@@ -3,7 +3,7 @@ layout: post
 title: Annual SEEKCommons Network Convenings
 show_tile: false
 ---
-## SEEKCommons Network Convening (2024)
+## U.S. NSF SEEKCommons Network Convening (2024)
 
 _Welcome to the 2nd Annual Research Network Convening!_
 

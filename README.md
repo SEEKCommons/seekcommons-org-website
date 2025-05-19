@@ -1,6 +1,6 @@
-# SEEKCommons project website 
+# NSF SEEKCommons project website 
 
-This repository contains the base files to generate the SEEKCommons website.
+This repository contains the base files to generate the NSF SEEKCommons website.
 The website uses Jekyll with the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
 # Credits

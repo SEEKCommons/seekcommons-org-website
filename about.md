@@ -8,7 +8,7 @@ nav-menu: true
 
 How can Open Science (OS) contribute to the present and future of socio-environmental research? Why is this question worth pursuing through a distributed network of STS researchers, OS practitioners, and socio-environmental researchers working with climate-impacted communities? 
 
-**The "Socio-Environmental Knowledge Commons" (SEEKCommons) project seeks to respond to these questions by promoting the "commons" in science and technology with an emphasis on collaborative socio-environmental research.**
+**The U.S. National Science Foundation "Socio-Environmental Knowledge Commons" (SEEKCommons) project seeks to respond to these questions by promoting the "commons" in science and technology with an emphasis on collaborative socio-environmental research.**
 
 Traditionally, biological and geo-physical studies of environmental dynamics have been siloed from social research. To create conditions for meaningful interdisciplinarity, we are building a network with socio-environmental organizers working on participatory knowledge-making, OS technologists designing common tools and infrastructures, and STS researchers studying (and supporting) community-driven research. To accomplish our goals, we are conducting the following activities as a reseach network:
 
@@ -22,4 +22,4 @@ Traditionally, biological and geo-physical studies of environmental dynamics hav
 
 SEEKCommons is a collaboration between the University of Notre Dame, University of Michigan, University of California Davis, University of Virginia, and the HDF Group.
 
-The project is made possible by a National Science Foundation [FAIROS RCN grant (Award 2226425)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226425&HistoricalAwards=false). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
+The project is made possible by a U.S. National Science Foundation [FAIROS RCN grant (Award 2226425)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226425&HistoricalAwards=false). This award was jointly supported by the NSF Directorate for Social, Behavioral and Economic Sciences and the Office of Advanced Cyberinfrastructure.
