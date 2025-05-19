@@ -36,9 +36,9 @@ With a background in rural sociology, development studies, and agricultural engi
 
 **Alicia Gibb** is an advocate for open hardware, researcher, and a hardware hacker. Alicia has worked within the open source hardware community since 2008. She is the founder and Executive Director of the Open Source Hardware Association (OSHWA), a non-profit organization to educate the benefits of building and using open source hardware. Alicia founded the Association after founding and chairing the Open Hardware Summit, a conference where the open source hardware community discusses business, manufacturing, legal implications, and all things open source hardware.
 
-### Benjamin Goering
+### Ben Goering
 
-**Benjamin Goering** is a decentralized and federated web engineer who previously worked for Protocol Labs. Ben brings his experience with “dweb” to the work we are doing to build common infrastructures and protocols for collaborative socio-environmental research. He has been active in the San Francisco Bay Area in various community initiatives, including most notably ActivityPub.
+**Ben Goering** is a decentralized and federated web engineer who previously worked for Protocol Labs. Ben brings his experience with “dweb” to the work we are doing to build common infrastructures and protocols for collaborative socio-environmental research. He has been active in the San Francisco Bay Area in various community initiatives, including most notably ActivityPub.
 
 ### Scott Frickel
 
@@ -124,9 +124,15 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Daniela Soleri** serves as a lecturer and researcher at UC Santa Barbara. Her research focuses on understanding local knowledge, practices, and outcomes in the management and use of crop plant diversity, particularly concerning climate change and environmental and social changes. She emphasizes the importance of equitable partnerships between scientists and practitioners, rooted in respect and mutual understanding, to enhance agricultural systems and address global challenges. Daniela has worked with diverse communities and published books on food gardening and gardens in changing climates and societies. She is researching seed libraries and community seed management to support grassroots seed sharing through participatory or community science initiatives.
 
+### Stephanie Russo Carroll
+
+**Stephanie Russo Carroll** is Ahtna, a citizen of the Native Village of Kluti-Kaah in Alaska, and of Sicilian-descent. Based at the University of Arizona (UA), she is Associate Professor, Community, Environment and Policy Department at the Mel and Enid Zuckerman College of Public Health (MEZCOPH) and American Indian Studies Graduate Interdisciplinary Program, Associate Research Professor, Udall Center for Studies in Public Policy and its Native Nations Institute (NNI), and Director, Collaboratory for Indigenous Data Governance. 
+
+Stephanie's research explores the links between Indigenous governance, data, the environment, and community wellness. Her interdisciplinary lab group,the Collaboratory for Indigenous Data Governance Research, develops research, policy, and practice innovations for Indigenous data sovereignty. Indigenous data sovereignty draws on the UN Declaration on the Rights of Indigenous Peoples that reaffirms the rights of Indigenous nations to control data about their peoples, lands, and resources. 
+
 ### Yunus Doğan Telliel
 
-**Yunus Doğan Telliel** is a cultural anthropologist at Worcester Polytechnic Institute. With a strong interest in transdisciplinary research inquiries, his work focuses on the design of human-computer interactions. He traces alternative and critical design imaginaries in AI and robotics research, and he is an advocate of public interest robotics in environmental science and governance. At Worcester Polytechnic Institute, he has been collaborating with engineering faculty and graduate students on his educational experiments that seek to incorporate qualitative research methods and community-based science into STEM education.   
+**Yunus Doğan Telliel** is a cultural anthropologist at Worcester Polytechnic Institute. With a strong interest in transdisciplinary research inquiries, his work focuses on the design of human-computer interactions. He traces alternative and critical design imaginaries in AI and robotics research, and he is an advocate of public interest robotics in environmental science and governance. At Worcester Polytechnic Institute, he has been collaborating with engineering faculty and graduate students on his educational experiments that seek to incorporate qualitative research methods and community-based science into STEM education.
 
 ### Vincenzo Tozzi
 
@@ -140,5 +146,14 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Jeff Ward** is the founder and Chief Executive Officer of Animikii, an Indigenous technology company committed to values that foster mutual understanding and equity. The company is responsible for developing Niiwin, an Indigenous Sovereignty platform that facilitates the creation of learning communities and complex, data-driven storytelling applications. Niiwin also serves as the foundation for many custom and culturally safer software solutions, developed in collaboration with partners and users. Jeff founded Animikii in 2003 and has orchestrated and managed its growth ever since. Everything Jeff does in business is geared towards uplifting his family, communities, and Indigenous Peoples. He is Ojibwe and Métis, originally from Manitoba, and now lives and works in Victoria, BC, on Lekwungen territory. Jeff is a web designer, software developer, author, and speaker. He also serves as a board member for Aboriginal Peoples Television Network (APTN).
 
+### Mai Ishikawa Sutton
 
+**Mai Ishikawa Sutton** is co-founder and editor of COMPOST, an online magazine about the digital commons, and project manager of Distributed.Press. Mai is also a contributor to Hypha Worker Co-operative and Digital Commons Fellow with Commons Network. Mai is interested in how digital commoning is made possible through cooperative ownership, decentralized technologies, and governance structures that allow strong patterns of communication and constructive feedback loops. 
 
+### Shah Selbe
+
+**Shah Selbe** is a member of the Open Source Hardware Association. He is an engineer and conservation technologist working on open source hardware instrumentation for environmental studies. His science platform is called FieldKit (fieldkit.org) and is aimed at helping researchers, students, and explorers share live environmental and field data on an interactive site. He is building an extensive library of open source sensor systems that can be used in science and conservation research.
+
+### Diego Ellis Soto
+
+**Diego Ellis Soto** is research fellow at the University of California, Berkeley, Environmental Science, Policy, and Management, working on socio-environmental problems from an ecological perspective. His research sits at the intersection of spatial ecology, global change biology, conservation, and environmental data science. He develops ecological forecasting and conservation prioritization methods, integrating biodiversity data with socio-economic variables.
