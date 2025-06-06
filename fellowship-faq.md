@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEEKCommons Fellowship FAQ 
+title: NSF SEEKCommons Fellowship FAQ 
 show_tile: false
 ---
 Please carefully read the fellowship description, application, and this FAQ before reaching out with questions.
@@ -37,7 +37,7 @@ Yes, as long as you can follow these guidelines:
 2. This fellowship requires expert fluency in spoken and written English.
 3. You will need to clearly demonstrate that you are working on socio-environmental problems with an Open or STS-related project.
 4. The majority of our mentors are based in the U.S. and as we select fellows, we will be attempting to match fellows and mentors with similar geographic and topical experience.
-5. SEEKCommons cannot provide travel support to the annual SEEKCommons convening for fellows outside of the U.S.
+5. NSF SEEKCommons cannot provide travel support to the annual NSF SEEKCommons convening for fellows outside of the U.S.
 
 **If I am interested in or experienced with one of the tracks (STS, socio-environmental research, or open) but not all, am I still eligible?**
 
@@ -67,7 +67,7 @@ You can find all the information you need to apply via the documents provided ab
 
 **I have an idea that seems relevant but doesn’t fit neatly in the topics listed. Should I still apply?**
 
-Yes, we do not expect all applicants’ interests to fit neatly into the listed topics. We’re interested in seeing what the individual interests and expertise of potential fellows lend to the broader SEEKCommons network. We will select a cohort of fellows who can benefit from working alongside each other, as well as with members of the [SEEKCommons network](network-members.html).
+Yes, we do not expect all applicants’ interests to fit neatly into the listed topics. We’re interested in seeing what the individual interests and expertise of potential fellows lend to the broader NSF SEEKCommons network. We will select a cohort of fellows who can benefit from working alongside each other, as well as with members of the [NSF SEEKCommons network](network-members.html).
 
 **I am very interested in applying for the fellowship, but I lack specific technical knowledge to develop parts of my project. Can I still apply for the fellowship?**
 
@@ -77,17 +77,17 @@ Yes, in the first several months of the fellowship the cohort will participate i
 
 **Will I receive support in deciding the structure and format for my fellowship project?**
 
-Yes, early in the fellowship you will meet with the SEEKCommons team and with your mentor to discuss and structure your project.
+Yes, early in the fellowship you will meet with the NSF SEEKCommons team and with your mentor to discuss and structure your project.
 
-**How often will I get to meet with my mentor, the fellowship cohort, and the SEEKCommons team?**
+**How often will I get to meet with my mentor, the fellowship cohort, and the NSF SEEKCommons team?**
 
-Fellows are required to meet at least once a month with their fellowship cohort and SEEKCommons team members, and as often as necessary with mentors. Depending on your individual mentor’s capacity and the support needed for your project, you may make arrangements to meet more or less frequently. You will meet with the SEEKCommons team members regularly during talks and workshops (to be held, at least, once a month).
+Fellows are required to meet at least once a month with their fellowship cohort and NSF SEEKCommons team members, and as often as necessary with mentors. Depending on your individual mentor’s capacity and the support needed for your project, you may make arrangements to meet more or less frequently. You will meet with the NSF SEEKCommons team members regularly during talks and workshops (to be held, at least, once a month).
 
 **Can I choose my mentor, or express a preference? Should I try to connect with a potential mentor before applying?**
 
-While the majority of mentors will come through the SEEKCommons Network, if there is a mentor with whom you are interested in working, you may include the name in your fellowship application. 
+While the majority of mentors will come through the NSF SEEKCommons Network, if there is a mentor with whom you are interested in working, you may include the name in your fellowship application. 
 
-**What resources will be available through the SEEKCommons Network to develop my project? What can I use my fellowship stipend on?**
+**What resources will be available through the NSF SEEKCommons Network to develop my project? What can I use my fellowship stipend on?**
 
 Your fellowship stipend is for use at your discretion. Travel funding will be available to support attendance at an annual in-person convening. Additional resources will come from mentorship, support with project development, network development, presentation and dissemination, and expertise development. We cannot amend fellowship stipends.
 
@@ -109,10 +109,10 @@ You will receive your fellowship stipend in two equal installments: (1) installm
 
 ## After the Fellowship
 
-**Can I still take part in the SEEKCommons Network activities after my fellowship has come to an end?** 
+**Can I still take part in the NSF SEEKCommons Network activities after my fellowship has come to an end?** 
 
-Of course! We would like for all the previous fellows to join the SEEKCommons Network!
+Of course! We would like for all the previous fellows to join the NSF SEEKCommons Network!
 
 **How do I list my fellowship on my CV or resumé?**
 
-An entry such as “Fellow of the National Science Foundation project, SEEKCommons (YEAR)” would be appropriate.
+An entry such as “Fellow of the National Science Foundation project, NSF SEEKCommons (YEAR)” would be appropriate.

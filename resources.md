@@ -29,7 +29,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SEEKCommons Public Library</h3>
+					<h3>NSF SEEKCommons Public Library</h3>
 				</header>
 				<p>
 			    We keep our references on Zotero and make them available for you to read, but also contribute. In our group library
@@ -49,10 +49,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SEEKCommon Data Management</h3>
+					<h3>NSF SEEKCommon Data Management</h3>
 				</header>
 				<p>
-			    In addition to the registration of SEEKCommons Network research outputs on Wikidata, we also deposit all the resource outputs of our project on Zenodo.
+			    In addition to the registration of NSF SEEKCommons Network research outputs on Wikidata, we also deposit all the resource outputs of our project on Zenodo.
                 You can find here all the presentations, videos, and other materials that we have created in the context of the project.	
 				</p>
 				<ul class="actions">

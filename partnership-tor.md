@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Partnership SEEKCommons + Tor Project
+title: Partnership NSF SEEKCommons + Tor Project
 show_tile: false
 ---
 
@@ -10,7 +10,7 @@ The Tor Project, Inc. is a 501(c)(3) nonprofit organization dedicated to advanci
 
 ## Research Topics
 
-We welcome Fellowship applications on the sustainability of the Tor network with a focus on energy consumption and relay metadata (such as ASN, uptime, and platform). The goal of the partnership between SEEKCommons and Tor is to study the environmental impact of community networks and promote the use of renewable energy in decentralized infrastructures.
+We welcome Fellowship applications on the sustainability of the Tor network with a focus on energy consumption and relay metadata (such as ASN, uptime, and platform). The goal of the partnership between NSF SEEKCommons and Tor is to study the environmental impact of community networks and promote the use of renewable energy in decentralized infrastructures.
 
 We would like to support applications that address one (or more) of these questions:
 - What Free and Open Source technologies can be used to promote a more sustainable and distributed Tor infrastructure?
