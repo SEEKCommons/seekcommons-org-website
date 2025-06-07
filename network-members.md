@@ -8,6 +8,8 @@ nav-menu: true
 
 Meet the NSF SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this Network, please see our form to [express your interest](https://nextcloud.unixjazz.org/apps/forms/MZb2t2fFPcAYGLxe).
 
+Browse member profiles with these alphabetically ordered shortcuts: [A-H](#A) [I-O](#I) [P-Z](#P). 
+
 ### Karl Benedict {#A}
 
 **Karl Benedict** has been working in geospatial technology and archaeology since 1986. Currently, he’s the Director of Research Data Services and an Associate Professor at the University of New Mexico’s College of University Libraries and Learning Sciences. Before this, he directed the Earth Data Analysis Center, combining roles in geography and library sciences. Karl has also worked with the US Forest Service and National Park Service, focusing on archaeological research and geospatial database development. Today, he helps UNM researchers manage their data effectively, ensuring that valuable research findings remain accessible and usable long after projects end.
