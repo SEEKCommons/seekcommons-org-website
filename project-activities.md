@@ -31,7 +31,7 @@ nav-menu: true
                 <header class="major">
 				    <h3>State of Open Science in Socioenvironmental Research</h3>
 				</header>
-				    <p>One of the core components of the NSF SEEKCommons project consists in STS research about the development, use, and debate about Open Science in the context of socioenvironmental research and action. This activity involves our core team of researchers, but also the wider network of STS partners we convened. For this research activity, we have prepared conference panels,	presentations, publications, and open data sets to be shared with our Network. For 2025, we will organize a volume that combines what we have learned from the RCN about the challenges and good practices of fostering common socio-environmental projects.
+				    <p>One of the core components of the SEEKCommons project consists in STS research about the development, use, and debate about Open Science in the context of socioenvironmental research and action. This activity involves our core team of researchers, but also the wider network of STS partners we convened. For this research activity, we have prepared conference panels,	presentations, publications, and open data sets to be shared with our Network. For 2025, we will organize a volume that combines what we have learned from the RCN about the challenges and good practices of fostering common socio-environmental projects.
                     </p>
 				    <!--
 				    <ul class="actions">
@@ -67,9 +67,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-				<h3><a href = "https://seekcommons.org/fellowship-application.html">NSF SEEKCommons Fellowships</a></h3>
+				<h3><a href = "https://seekcommons.org/fellowship-application.html">SEEKCommons Fellowships</a></h3>
 				</header>
-				<p>The NSF SEEKCommons <a href = "https://seekcommons.org/fellows.html">Fellowship</a> brings together graduate students and early-career researchers with new perspectives to socio-environmental research with open technologies. The Fellowship program is designed to encourage integrative practices involving environmental research with OS practices, and provide a space for fellows and network members to collaborate on common research challenges.
+				<p>The SEEKCommons <a href = "https://seekcommons.org/fellows.html">Fellowship</a> brings together graduate students and early-career researchers with new perspectives to socio-environmental research with open technologies. The Fellowship program is designed to encourage integrative practices involving environmental research with OS practices, and provide a space for fellows and network members to collaborate on common research challenges.
 				</p>
 				<ul class="actions">
 			        <li><a href="https://seekcommons.org/fellows.html" class="button">Learn more</a></li>

@@ -6,7 +6,7 @@ image: assets/images/network-members.jpg
 nav-menu: true
 ---
 
-Meet the NSF SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this Network, please see our form to [express your interest](https://nextcloud.unixjazz.org/apps/forms/MZb2t2fFPcAYGLxe).
+Meet the U.S. NSF SEEKCommons network of STS researchers, OS practitioners, and socio-environmental researchers. If you would like to nominate someone or join this Network, please see our form to [express your interest](https://nextcloud.unixjazz.org/apps/forms/MZb2t2fFPcAYGLxe).
 
 Browse member profiles with these alphabetically ordered shortcuts: [A-H](#A) [I-O](#I) [P-Z](#P). 
 

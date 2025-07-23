@@ -3,7 +3,7 @@ layout: post
 title: Community Calls
 show_tile: false
 ---
-The NSF SEEKCommons team is pleased to introduce the "Community Call" series on the topic of the "commons of open technologies and communities," that is, the collective and collaborative dynamics of knowledge production around community-oriented science and technology projects. This series are dedicated to the challenges, benefits, lessons learned, and uncharted possibilities of the commons as a governance framework as more attention is given to “open technology” projects worldwide. 
+The SEEKCommons team is pleased to introduce the "Community Call" series on the topic of the "commons of open technologies and communities," that is, the collective and collaborative dynamics of knowledge production around community-oriented science and technology projects. This series are dedicated to the challenges, benefits, lessons learned, and uncharted possibilities of the commons as a governance framework as more attention is given to “open technology” projects worldwide. 
 
 _The series is open to public participation: everyone is welcome to join!_
 
