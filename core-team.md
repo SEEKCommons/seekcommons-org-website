@@ -181,7 +181,7 @@ nav-menu: true
         </section>
         <section>
         <a href="https://ieeexplore.ieee.org/author/37089362784" class="image">
-                        <img src="{% link assets/images/ed.png %}" alt="" data-position="25% 25%" />
+                        <img src="{% link assets/images/ed.jpg %}" alt="" data-position="25% 25%" />
                 </a>
                 <div class="content">
                         <div class="inner">
