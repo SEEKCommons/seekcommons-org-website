@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSF SEEKCommons Fellows 
+title: SEEKCommons Fellows 
 description: Meet our research fellows
 image: assets/images/fellows.png
 nav-menu: true
@@ -15,7 +15,7 @@ Meet the fellows working on STS, Open Science and Socio-Environmental research p
 
 ### Brianna Johns
 
-**Brianna (she/they)** is a community organizer and interdisciplinary researcher who has spent years working on various open and community science initiatives. While pursuing an undergraduate degree at North Carolina State University, she founded the first citizen science student organization and conducted mixed-methods research on student experiences with citizen science. After graduating, they served as the community coordinator for the Gathering for Open Science Hardware (GOSH), an international network of engineers, designers, researchers, and activists who aim to make Open Science Hardware (OSH) the norm in scientific practices. They are now a Fulbright student researcher and NSF SEEKCommons fellow studying the role of emerging open source technologies in biodiversity monitoring efforts. They also co-founded "Queer Science," an award-nominated podcast that explores the intersection of science and queerness, and manage the Open Source Solutions group for WILDLABS, a global conservation technologist network.
+**Brianna (she/they)** is a community organizer and interdisciplinary researcher who has spent years working on various open and community science initiatives. While pursuing an undergraduate degree at North Carolina State University, she founded the first citizen science student organization and conducted mixed-methods research on student experiences with citizen science. After graduating, they served as the community coordinator for the Gathering for Open Science Hardware (GOSH), an international network of engineers, designers, researchers, and activists who aim to make Open Science Hardware (OSH) the norm in scientific practices. They are now a Fulbright student researcher and SEEKCommons fellow studying the role of emerging open source technologies in biodiversity monitoring efforts. They also co-founded "Queer Science," an award-nominated podcast that explores the intersection of science and queerness, and manage the Open Source Solutions group for WILDLABS, a global conservation technologist network.
 
 ### Keren Reichler
 
@@ -77,7 +77,7 @@ Tikzi serves as stuart of Ancestral Lands in Kutakachi, Ecuador; a Translational
 
 ### Vincent (Vince) Tozzi
 
-**Vince (he/him)** is network artisan, researcher, and activist who works with Free Software, popular culture, and agroecology. He has been working for almost two decades with “Casa de Cultura Tainã” (one of the key nodes of the Quilombola (Maroon) network “Mocambos,” which is dedicated to sharing traditional knowledge with Free Software technologies). Vince is participating in the NSF SEEKCommons Fellowship as a representative of Mocambos Network. Vince is the main developer of Baobáxia software and coordinator of the “Digital Research and Development Group” (NPDD) of the Mocambos Network. He is also the founder of the “Núcleo DPadua,” based in the historic Mercado Sul of Taguatinga in Brazil, where he participates in the Radio Mercado Sul project. He graduated with a degree in Computer Science from the Università degli Studi di Firenze. He has experience with the implementation of Intranet services and Free Software migration projects in the Brazilian government. In addition to his technical contributions, he has also been dedicated to the promotion of “Digital Culture,” involving popular culture and traditional knowledge projects.
+**Vince (he/him)** is network artisan, researcher, and activist who works with Free Software, popular culture, and agroecology. He has been working for almost two decades with “Casa de Cultura Tainã” (one of the key nodes of the Quilombola (Maroon) network “Mocambos,” which is dedicated to sharing traditional knowledge with Free Software technologies). Vince is participating in the SEEKCommons Fellowship as a representative of Mocambos Network. Vince is the main developer of Baobáxia software and coordinator of the “Digital Research and Development Group” (NPDD) of the Mocambos Network. He is also the founder of the “Núcleo DPadua,” based in the historic Mercado Sul of Taguatinga in Brazil, where he participates in the Radio Mercado Sul project. He graduated with a degree in Computer Science from the Università degli Studi di Firenze. He has experience with the implementation of Intranet services and Free Software migration projects in the Brazilian government. In addition to his technical contributions, he has also been dedicated to the promotion of “Digital Culture,” involving popular culture and traditional knowledge projects.
 
 ### Katie Ulrich 
 

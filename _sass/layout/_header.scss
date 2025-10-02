@@ -36,26 +36,28 @@
 			line-height: inherit;
 			padding: 0 1.5em;
 
-			// Hiding text to show NSF-SK logo
-    		text-indent: -9999px;
-    		overflow: hidden;
-    		white-space: nowrap;
-    		background: url('../assets/images/SEEK_logos_Inverted.png') no-repeat center;
-    		background-size: contain;
-    		width: 200px; // width for the logo
-
 			strong {
-				display: none; // Hiding the "U.S. National Science Foundation SEEKCommons..." text
+				@include vendor('transition', (
+					'background-color #{_duration(transition)} ease-in-out',
+					'color #{_duration(transition)} ease-in-out'
+				));
+				background-color: _palette(fg-bold);
+				color: _palette(bg);
+				display: inline-block;
+				line-height: 1.65em;
+				margin-right: 0.325em;
+				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
+			}
 
 			&:hover {
 				strong {
-					background-color: transparent; //so the colors are not altered
+					background-color: _palette(highlight);
 				}
 			}
 
 			&:active {
 				strong {
-					background-color: transparend; //so the colors are not altered
+					background-color: desaturate(darken(_palette(highlight), 15), 5);
 				}
 			}
 		}

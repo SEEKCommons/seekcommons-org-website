@@ -7,7 +7,7 @@ show_tile: false
 
 _Welcome to the 2nd Annual Research Network Convening!_
 
-The NSF SEEKCommons Network is bridging long-standing divides between environmental scientists, community organizers, FOSS technologists, and science and technology (STS) researchers by addressing common social, technical, and environmental problems. For our second year of network-building efforts, we will focus on the issue of __sustainability of Open Technologies and Open Science practices__.
+The SEEKCommons Network is bridging long-standing divides between environmental scientists, community organizers, FOSS technologists, and science and technology (STS) researchers by addressing common social, technical, and environmental problems. For our second year of network-building efforts, we will focus on the issue of __sustainability of Open Technologies and Open Science practices__.
 
 The plan is to discuss the challenges of the work we are doing on the topic and decide on how to allocate resources for collaborative research in 2025. We will also prepare an inventory of "patterns" and "anti-patterns" that we observed in our experiences with Open Science and Socio-Environmental research.
 
@@ -26,11 +26,11 @@ The plan is to discuss the challenges of the work we are doing on the topic and 
 | 9:00am            | Arrive at Venue                                                                                                                                                                            |
 | 9:30am - 10:30am  | **Welcome & Introductions**<br><br>_LF Murillo (Notre Dame) and Erin Robinson (Metadata Game Changers)_                                                                                    |
 | 10:30am - 11:00am | Coffee Break                                                                                                                                                                               |
-| 11:00am – 12:30pm | **Session 1: NSF SEEKCommons Fellows - Lessons Learned from Fellowship Projects**<br><br>_Discussion with 2024 Fellows, facilitated by Sarah McCullough (UC Davis)_                            |
+| 11:00am – 12:30pm | **Session 1: SEEKCommons Fellows - Lessons Learned from Fellowship Projects**<br><br>_Discussion with 2024 Fellows, facilitated by Sarah McCullough (UC Davis)_                            |
 | 12:30pm - 1:30pm  | Lunch Break                                                                                                                                                                                |
 | 1:30pm - 3:15pm   | **Session 2: Digital Sovereignty with Data Vulnerable Communities: Implementation Strategies and Challenges**<br><br>_Ciera Martinez (UC Berkeley DSE) and Annie Snyder (UC Berkeley DSE)_ |
 | 3:15pm - 3:45pm   | Coffee Break                                                                                                                                                                               |
-| 3:45pm - 5:00pm   | **Session 3: NSF SEEKCommons Hub UI-UX workshop**<br><br>_Gerd Heber (HDF Group), Lane Rasberry (UVA), Rebecca Hardin (U of Michigan) and Nate Papes (Atomic Objects)_                         |
+| 3:45pm - 5:00pm   | **Session 3: SEEKCommons Hub UI-UX workshop**<br><br>_Gerd Heber (HDF Group), Lane Rasberry (UVA), Rebecca Hardin (U of Michigan) and Nate Papes (Atomic Objects)_                         |
 | 5:00pm - 5:30pm   | Day Closing & Next Steps                                                                                                                                                                   |
 | 7:00pm            | Dinner at Comal Restaurant                                                                                                                                                                 |
 | **Day 2 - 12/08** |                                                                                                                                                                                            |
@@ -53,4 +53,4 @@ The plan is to discuss the challenges of the work we are doing on the topic and 
 
 The event was organized this year by Erin Robinson, Ciera Martinez, Annie Snyder, Lane Rasberry, Jessica Reyes, and LF Murillo. 
 
-Special thanks to all the NSF SEEKCommons project team members who provided help as well!
+Special thanks to all the SEEKCommons project team members who provided help as well!
