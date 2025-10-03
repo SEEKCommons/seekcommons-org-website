@@ -20,7 +20,7 @@ Browse member profiles with these alphabetically ordered shortcuts: [A-H](#A) [I
 
 ### Louise Bezuidenhout
 
-Louise Bezuidenhout is a social science researcher who specializes on issues relating to Open Science, data sharing and access. Her research is broadly oriented around themes such as justice and access, inclusion and marginalization and equity. Much of her work to date has concentrated on understanding diverse voices and values within the Open Science movement, in particular identifying ways to improve the representation and inclusion of low/middle-income country researchers into the Open Science landscape. This work has involved embedded ethnographies, interviews and surveys in a number of countries in Africa, Europe and North America. With an international trajectory, Dr Bezuidenhout currently works at the Centre for Science and Technology Studies (CWTS) at the University of Leiden as a senior researcher focusing on Open Science monitoring and practice.
+**Louise Bezuidenhout** is a social science researcher who specializes on issues relating to Open Science, data sharing and access. Her research is broadly oriented around themes such as justice and access, inclusion and marginalization and equity. Much of her work to date has concentrated on understanding diverse voices and values within the Open Science movement, in particular identifying ways to improve the representation and inclusion of low/middle-income country researchers into the Open Science landscape. This work has involved embedded ethnographies, interviews and surveys in a number of countries in Africa, Europe and North America. With an international trajectory, Dr Bezuidenhout currently works at the Centre for Science and Technology Studies (CWTS) at the University of Leiden as a senior researcher focusing on Open Science monitoring and practice.
 
 ### Lisa Blackmore 
 
@@ -61,6 +61,11 @@ With a background in rural sociology, development studies, and agricultural engi
 ### Liz Henry 
 
 **Liz Henry** (they/them) heads the nonprofit organization Grassroots Open Assistive Tech, which aims to make DIY assistive technology designs and information available under open licenses. Liz is a hacker and makerspace enthusiast and founder, most closely involved with Noisebridge and Double Union in San Francisco. Liz also works in open source software at Mozilla as a technical program & release manager for Firefox and its developer toolchain. Additionally, Liz is a grantmaker and advisor; they are on the advisory board for San Francisco’s new Disability Cultural Center building, and work as grant program manager for progressive tech funds, including Disability Inclusion Fund x Tech.
+
+### Pen-Yuan Hsing
+
+**Pen-Yuan Hsing** (he/they) is a postdoctoral researcher at the University of Bristol, United Kingdom. Much of Pen's work is “research on research,” applying academic rigor to solving systemic problems in the research community. Pen is an advocate for open research, having taken on an advisory role for the NASA Transform to Open Science (TOPS) mission, worked with UNESCO on developing and implementing their Recommendation on Open Science, and has served as a member of The Turing Way. Pen has been active in open source tech communities for more than a decade. Currently, he is a board member of the Open Science Hardware Foundation, which advocates for open source hardware in open science policies.
+
 
 ### Nancy Hoebelheinrich
 
