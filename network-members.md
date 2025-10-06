@@ -54,6 +54,10 @@ With a background in rural sociology, development studies, and agricultural engi
 
 **Scott Frickel** is a professor at Brown University. As a socio-environmental researcher, Scott explores the complex dynamics between science, society, and the environment. His research looks to answer questions about equity and environmental justice, informing decisions about environmental and public health. His current work develops computational methods and tools to generate historically geo-referenced databases on historical hazard land uses, connecting land uses to places of exposure for vulnerable populations.
 
+### WarīŇkwī Flores
+
+**WarīŇkwī Flores** (sibling/hir) is a PhD student in Natural Resources specializing in Indigenous Komplexity Systems Theory and BioKulture Research Design. Hir research focuses on agroecology systems metabolism, Indigenous data sovereignty and governance ('Data Kinship'), and digital stewardship within environmental DNA ('dimension-verse’ eDNA). WarīŇkwī advocates for biocultural intellectual property rights, the empowerment of Indigenous Peoples, and the integration of social ecology value systems, including Indigenous economic frameworks, to promote resilient, culturally-informed environmental solutions.
+
 ###  Kyle Harp-Rushing
 
 **Kyle Harp-Rushing** (He/Him) is a cultural anthropologist specializing in science and medicine's histories and cultures. He focuses on the co-productive relationships between emergent digital communication infrastructures and the techno-politics of "replicability crises" in the context of multiple Open Science movements. His ethnographic fieldwork with both nonprofit and for-profit Open Science advocates, developers, and networks (mainly in the US), as well as with experimental lab scientists, engaged the contingent technocultural contexts of experimental encounters to historicize and shed light on the participatory politics, ideologies, imaginaries, anxieties and (un)intended consequences of Open Science. He has experience with several interdisciplinary research teams, specially working to grow the "small data" of ethnographic conversations and observations into compelling stories and insights. 
@@ -131,9 +135,23 @@ Alex Pazaitis is researcher at the Ragnar Nurkse Department of Innovation and Go
 
 **Alejandro Ponce de León** is an educator at UC Berkeley, Education dept. He is a researcher and editor, whose work and practice intersect the environmental humanities, technoscience studies, and citizen science education. He is also the founding editor of "Environmental Humanities."
 
+### Alison Parker
+
+**Alison Parker**, PhD, specializes in promoting innovative approaches to science and technology, including citizen science and open hardware. She served as Senior Policy Advisor at the White House Office of Science and Technology Policy. At the Woodrow Wilson International Center for Scholars, she was a Senior Program Associate at the Science and Technology Innovation Program (STIP). Alison has served on the Board of Directors and as Chair of the Citizen Science Association, and she was a member of the Editorial Board for Citizen Science: Theory and Practice. Previously, she led initiatives at the U.S. Environmental Protection Agency to incorporate crowdsourcing and citizen science into research and decision-making. Alison earned her PhD from the University of Toronto’s Department of Ecology and Evolutionary Biology, focusing on native pollinators and citizen science. 
+
+### Erin Robinson
+
+Erin (she/her) is a researcher specializing in information science and environmental science, focusing on environmental information infrastructures and place-based collaboratories. Her early work involved studying long-range transport of smoke and dust, which required integrating data from various sources in incompatible formats, highlighting the social and behavioral challenges of data reuse. This experience inspired her to work with the Earth Science Information Partners (ESIP) for ten years, serving as Information and Virtual Community Director and later as Executive Director. At ESIP, she developed programs and organized conferences to foster community and develop shared solutions for data sharing issues. In 2020, she joined Metadata Game Changers, a consultancy addressing these challenges. Her recent work includes the FAIR Island project, which became the foundation for her dissertation in Information Science at the University of Colorado, Boulder. She focuses on improving collaborative data sharing at environmental field stations through infrastructural interventions, aiming to enhance data reuse and cooperation.
+
 ### Bárbara Rocha Cardeli
 
 **Bárbara Rocha Cardeli** is a PhD researcher working in entanglements of ecology, technology, and society. She holds a degree in Biological Sciences from the Pontifical Catholic University of Campinas (PUC-Campinas) and a master’s in Ecology and Biodiversity from Sao Paulo State University (UNESP). Currently, as a PhD student in Ecology at the State University of Campinas (Unicamp), her project explores the impacts of climate change on functional diversity and ecosystem services in the Brazilian Amazon.
+
+### Stephanie Russo Carroll
+
+**Stephanie Russo Carroll** is Ahtna, a citizen of the Native Village of Kluti-Kaah in Alaska, and of Sicilian-descent. Based at the University of Arizona (UA), she is Associate Professor, Community, Environment and Policy Department at the Mel and Enid Zuckerman College of Public Health (MEZCOPH) and American Indian Studies Graduate Interdisciplinary Program, Associate Research Professor, Udall Center for Studies in Public Policy and its Native Nations Institute (NNI), and Director, Collaboratory for Indigenous Data Governance. 
+
+Stephanie's research explores the links between Indigenous governance, data, the environment, and community wellness. Her interdisciplinary lab group,the Collaboratory for Indigenous Data Governance Research, develops research, policy, and practice innovations for Indigenous data sovereignty. Indigenous data sovereignty draws on the UN Declaration on the Rights of Indigenous Peoples that reaffirms the rights of Indigenous nations to control data about their peoples, lands, and resources. 
 
 ### Saguna Shankar
 
@@ -143,27 +161,8 @@ Alex Pazaitis is researcher at the Ragnar Nurkse Department of Innovation and Go
 
 **Daniela Soleri** serves as a lecturer and researcher at UC Santa Barbara. Her research focuses on understanding local knowledge, practices, and outcomes in the management and use of crop plant diversity, particularly concerning climate change and environmental and social changes. She emphasizes the importance of equitable partnerships between scientists and practitioners, rooted in respect and mutual understanding, to enhance agricultural systems and address global challenges. Daniela has worked with diverse communities and published books on food gardening and gardens in changing climates and societies. She is researching seed libraries and community seed management to support grassroots seed sharing through participatory or community science initiatives.
 
-### Stephanie Russo Carroll
-
-**Stephanie Russo Carroll** is Ahtna, a citizen of the Native Village of Kluti-Kaah in Alaska, and of Sicilian-descent. Based at the University of Arizona (UA), she is Associate Professor, Community, Environment and Policy Department at the Mel and Enid Zuckerman College of Public Health (MEZCOPH) and American Indian Studies Graduate Interdisciplinary Program, Associate Research Professor, Udall Center for Studies in Public Policy and its Native Nations Institute (NNI), and Director, Collaboratory for Indigenous Data Governance. 
-
-Stephanie's research explores the links between Indigenous governance, data, the environment, and community wellness. Her interdisciplinary lab group,the Collaboratory for Indigenous Data Governance Research, develops research, policy, and practice innovations for Indigenous data sovereignty. Indigenous data sovereignty draws on the UN Declaration on the Rights of Indigenous Peoples that reaffirms the rights of Indigenous nations to control data about their peoples, lands, and resources. 
-
-### Yunus Doğan Telliel
-
-**Yunus Doğan Telliel** is a cultural anthropologist at Worcester Polytechnic Institute. With a strong interest in transdisciplinary research inquiries, his work focuses on the design of human-computer interactions. He traces alternative and critical design imaginaries in AI and robotics research, and he is an advocate of public interest robotics in environmental science and governance. At Worcester Polytechnic Institute, he has been collaborating with engineering faculty and graduate students on his educational experiments that seek to incorporate qualitative research methods and community-based science into STEM education.
-
-### Vincenzo Tozzi
-
-**Vincenzo Tozzi** comes from Sicily, where he still has his "first" family and collaborates with the BOCS cultural space. He is from Campania, the land of witches, where he dreams of an organic farm T3RRA. He became Brazilian 20 years ago, dreaming and fighting with the Mocambos Network. He is a network artisan at the Casa de Cultura Tainã and a offspring of the Mercado Sul, where he matured as an _angoleiro_ (a practitioner of Capoeira in the Angola variant style). He is a computer scientist, graduated from the Università degli Studi di Firenze, where he participated in the social and student movement Studenti di Sinistra, the Comitato Kurdistan, and the PoliOpposti newspaper. In 2005, he worked in the Federal Government, first at GESAC and then at the Presidency of the Republic. Since 2007, he has coordinated the Digital Research and Development Group of the Mocambos Network. He is one of the creators of the Free Software Baobáxia. He works with people in Popular Culture and Agroecology and currently lives in Guapimirim, Rio de Janeiro with his partner and two wonderful daughters.
-
-### Emilio Velis
-
-**Emilio Velis** is the Executive Director of the Appropedia Foundation, an organization that promotes access to knowledge on sustainability and poverty reduction, applying his experience in community development, open hardware and open licensing. Emilio advocates for the responsible use of new technologies to solve global issues that range from community violence to climate change and contributes to various organizations and networks in these subjects. He has mentored, done research and taught at the undergraduate and masters level regarding these subjects. His research includes topics related to community empowerment, collaborative methodologies for open-source documentation, and the importance of open knowledge for science and social impact.
-
-### Jeff Ward
-
-**Jeff Ward** is the founder and Chief Executive Officer of Animikii, an Indigenous technology company committed to values that foster mutual understanding and equity. The company is responsible for developing Niiwin, an Indigenous Sovereignty platform that facilitates the creation of learning communities and complex, data-driven storytelling applications. Niiwin also serves as the foundation for many custom and culturally safer software solutions, developed in collaboration with partners and users. Jeff founded Animikii in 2003 and has orchestrated and managed its growth ever since. Everything Jeff does in business is geared towards uplifting his family, communities, and Indigenous Peoples. He is Ojibwe and Métis, originally from Manitoba, and now lives and works in Victoria, BC, on Lekwungen territory. Jeff is a web designer, software developer, author, and speaker. He also serves as a board member for Aboriginal Peoples Television Network (APTN).
+### Tiffany Tang 
+Tiffany (she/her) is currently an Environmental Engineering doctoral student at Northeastern University. She obtained her MS and BS in Environmental Engineering at North Carolina State University, focusing on factors affecting removal of emerging contaminants 1,4-dioxane and PFAS from drinking water. At Northeastern University, she’s excited to conduct environmental engineering research from an environmental justice standpoint through investigating the validity of private well water location methods and exploring the way these methods interplay with demographics, social equity, policy formation, and water quality. She aims to develop her skills as a community-focused researcher with a multifaceted understanding of drinking water issues ranging from treatment to policy.
 
 ### Mai Ishikawa Sutton
 
@@ -176,3 +175,39 @@ Stephanie's research explores the links between Indigenous governance, data, the
 ### Diego Ellis Soto
 
 **Diego Ellis Soto** is research fellow at the University of California, Berkeley, Environmental Science, Policy, and Management, working on socio-environmental problems from an ecological perspective. His research sits at the intersection of spatial ecology, global change biology, conservation, and environmental data science. He develops ecological forecasting and conservation prioritization methods, integrating biodiversity data with socio-economic variables.
+
+### Yunus Doğan Telliel
+
+**Yunus Doğan Telliel** is a cultural anthropologist at Worcester Polytechnic Institute. With a strong interest in transdisciplinary research inquiries, his work focuses on the design of human-computer interactions. He traces alternative and critical design imaginaries in AI and robotics research, and he is an advocate of public interest robotics in environmental science and governance. At Worcester Polytechnic Institute, he has been collaborating with engineering faculty and graduate students on his educational experiments that seek to incorporate qualitative research methods and community-based science into STEM education.
+
+### Kathe Todd Brown 
+
+Kathe is a computational biogeochemist specializing in the study of soil respiration through the integration of mathematics, computer modeling, and global data. Their work focuses on soils as a major source of natural carbon dioxide, a key greenhouse gas influencing climate change. Kathe develops and refines models with community participation to predict how soil emissions may increase with global warming, with the goal of improving the ability to forecast and mitigate climate impacts.
+
+### Vincenzo Tozzi
+
+**Vincenzo Tozzi** comes from Sicily, where he still has his "first" family and collaborates with the BOCS cultural space. He is from Campania, the land of witches, where he dreams of an organic farm T3RRA. He became Brazilian 20 years ago, dreaming and fighting with the Mocambos Network. He is a network artisan at the Casa de Cultura Tainã and a offspring of the Mercado Sul, where he matured as an _angoleiro_ (a practitioner of Capoeira in the Angola variant style). He is a computer scientist, graduated from the Università degli Studi di Firenze, where he participated in the social and student movement Studenti di Sinistra, the Comitato Kurdistan, and the PoliOpposti newspaper. In 2005, he worked in the Federal Government, first at GESAC and then at the Presidency of the Republic. Since 2007, he has coordinated the Digital Research and Development Group of the Mocambos Network. He is one of the creators of the Free Software Baobáxia. He works with people in Popular Culture and Agroecology and currently lives in Guapimirim, Rio de Janeiro with his partner and two wonderful daughters.
+
+### Sebastián Ureta
+
+**Sebastián Ureta** is Associate Professor at the Pontificia Universidad Católica de Chile, with a joint appointment between College UC and the Institute for Sustainable Development. His main area of interest is the analysis of policies, practices, and conflicts associated with the governance of environmental degradation and restoration in Chile. He is currently developing research projects on productive transitions in marine environments and on the regulation of soil contamination. In addition to multiple articles in leading journals, he has published the books Assembling Policy: Transantiago, Human Devices, and the Dream of a World-Class Society (MIT Press, 2015), Worlds of Gray and Green: Mineral extraction as ecological practice (University of California Press, 2022), and Experimentos Políticos: Repensando la implementación de políticas públicas (Ediciones Universidad Alberto Hurtado, 2023).
+
+### Emilio Velis
+
+**Emilio Velis** is the Executive Director of the Appropedia Foundation, an organization that promotes access to knowledge on sustainability and poverty reduction, applying his experience in community development, open hardware and open licensing. Emilio advocates for the responsible use of new technologies to solve global issues that range from community violence to climate change and contributes to various organizations and networks in these subjects. He has mentored, done research and taught at the undergraduate and masters level regarding these subjects. His research includes topics related to community empowerment, collaborative methodologies for open-source documentation, and the importance of open knowledge for science and social impact.
+
+### Jeff Ward
+
+**Jeff Ward** is the founder and Chief Executive Officer of Animikii, an Indigenous technology company committed to values that foster mutual understanding and equity. The company is responsible for developing Niiwin, an Indigenous Sovereignty platform that facilitates the creation of learning communities and complex, data-driven storytelling applications. Niiwin also serves as the foundation for many custom and culturally safer software solutions, developed in collaboration with partners and users. Jeff founded Animikii in 2003 and has orchestrated and managed its growth ever since. Everything Jeff does in business is geared towards uplifting his family, communities, and Indigenous Peoples. He is Ojibwe and Métis, originally from Manitoba, and now lives and works in Victoria, BC, on Lekwungen territory. Jeff is a web designer, software developer, author, and speaker. He also serves as a board member for Aboriginal Peoples Television Network (APTN).
+
+### Kate Wing
+
+**Kate Wing** is an expert in complex systems and ocean work, focused on designing solutions for wicked problems that involve multiple perspectives. Founder and Executive Director of Intertidal Agency, she has led strategy and design projects related to the environment, including issues concerning forests, fish, birds, bugs, and surrounding communities. There, she focused on building foundations for social change organizations that develop strategies at the intersection of technology, conservation, and policy, working with partners such as the World Economic Forum, Walton Family Foundation, and The Nature Conservancy. 
+
+### Brandon Whitehead
+
+**Brandon Whitehead** is an environmental data scientist at Manaaki Whenua–Landcare Research in Aotearoa New Zealand, where he explores ways to describe commonalities between different worldviews within science, including Māori perspectives. His passion for science was sparked in middle school outside Minneapolis. As a student at Minnesota State University, Mankato, he developed a love for Earth science and computing, also recognizing the challenge of inconsistent data reporting in research, such as water table studies. After working in California for private companies, Whitehead moved to New Zealand to focus on making data more accessible and meaningful for communities.
+
+### Sebastian Zárate
+
+Sebastian (he/him) has a PhD in Forestry and Environmental Resources from North Carolina State University, where he served as a fellow in the AgBioFEWS program at the Genetic Engineering and Society Center (GES). Drawing upon the field of science and technology studies (STS), his work explores the governance of crop data platforms and the implications of emerging technologies in the Andes. Sebastian has experience working in Peru and the U.S., conducting research on diverse topics such as ethnicity and social stratification, public perceptions of climate change, sustainability, and the circular economy. More recently, he participated in the CompCoRe project, which compares national responses to the COVID-19 pandemic, and the CRISPR in Latin America and the Caribbean project, which examines the regulatory and institutional frameworks of novel technologies for the agricultural sector. Currently, he is exploring issues of data justice, digital literacy, and the long-term adoption of citizen science data platforms for the conservation of agrobiodiversity.
