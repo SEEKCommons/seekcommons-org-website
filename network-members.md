@@ -14,6 +14,14 @@ Browse member profiles with these alphabetically ordered shortcuts: [A-H](#A) [I
 
 **Karl Benedict** has been working in geospatial technology and archaeology since 1986. Currently, he’s the Director of Research Data Services and an Associate Professor at the University of New Mexico’s College of University Libraries and Learning Sciences. Before this, he directed the Earth Data Analysis Center, combining roles in geography and library sciences. Karl has also worked with the US Forest Service and National Park Service, focusing on archaeological research and geospatial database development. Today, he helps UNM researchers manage their data effectively, ensuring that valuable research findings remain accessible and usable long after projects end.
 
+### Liz Barry
+**Elizabeth Barry** is the Head of Partnerships at The Computational Democracy Project, an initiative she helped found to promote open-source tools for democratic participation. She collaborates with facilitators, social movements, civil society organizations, journalists, indigenous nations, and governments to implement "listening at scale" initiatives. Elizabeth gained her facilitation experience by engaging with thousands of people across the U.S. through her "Talk To Me" sidewalk campaign. She co-founded TreeKIT, helping map New York City's trees, and founded the Public Laboratory for Open Technology and Science to support open research and environmental monitoring. She was elected to the Community Council of the Gathering for Open Science Hardware, a global movement to advance open science tools. Trained as a landscape architect and urban designer, Elizabeth applies her expertise to enhance human-environment-technology relationships, with a focus on community organizing, environmental justice, and democratic engagement. Her work emphasizes collective self-determination and innovative methods for civic engagement. 
+
+
+### Jose Ramon Becerra Vera
+
+Jose (he/him) is a Ph.D. candidate in the Department of Anthropology at Purdue University, working in the Farmer Learning, Agriculture, Culture, Humanities, Social science laboratory. While pursuing his doctoral degree, Jose has held positions working on pollution issues and environmental justice across non-profits and government, including as a Yale University Environmental Fellow, with Chicago’s non-profit organization Elevate, and as a University of New Hampshire Sustainability Fellow with the U.S. Environmental Protection Agency. His dissertation uses qualitative ethnographic and quantitative exposure science instruments to examine the drivers of toxicity in ecological landscapes and uneven contamination exposure. Through his work across the social and environmental sciences, Jose aims to democratize science, contribute to community health, and advocate for environmental justice.
+
 ### Valerie Berseth
 
 **Valerie Berseth** is an Assistant Professor of Practice and Extension Agent at Oregon State University. Valerie holds a Ph.D. in Sociology from the University of British Columbia. Her research explores the intersections of science, technology, and society in social ecological systems, with a focus on climate adaptation, the sociocultural dimensions of knowledge production, and public perceptions of emerging technologies in conservation and resource management. She has over eight years of experience collaborating with community partners and interdisciplinary teams on large-scale genomics research projects, examining how trust, risk, and values shape decision-making in environmental governance.
@@ -38,17 +46,13 @@ Jocelyn belongs to the Binnizá people of the Isthmus of Tehuantepec, Oaxaca, an
 
 Morgan DiCarlo is a civil engineer from  Stony Brook University with a PhD from North Carolina State University in the Sociotechnical Systems Analysis Lab. She also holds a master's in biological systems engineering from Virginia Tech. An advocate for STEM outreach and gender equity in the field, she has been a TEDx speaker and museum volunteer. In 2024, she was recognized as one of the 10 "New Faces" of Civil Engineering by ASCE (American Society of Civil Engineers). She joined the EPA as a science and technology policy fellow for the American Association for the Advancement of Science (AAAS), focusing on Translational Science and Climate Change Research. She is now a full-time Physical Scientist at the EPA. 
 
+### MV Eitzel
+
+**MV Eitzel** is a researcher at the University of California, Davis, focusing on community-engaged research that fosters the well-being of people and ecosystems, particularly those affected by past injustices. Currently affiliated with the Center for Community and Citizen Science and the Feminist Research Institute, MV also serves as the Staff Scientist for the California Wildfire & Forest Resilience Task Force at UC Berkeley. With a scholarship that blends data science, participatory action research, and Science and Technology Studies, MV employs a range of ecoinformatic tools to analyze complex social-ecological systems, prioritizing collaborative modeling efforts and integrating diverse knowledge forms for equitable outcomes. MV works collaboratively with communities to build data representations and models, supporting analysis and synthesis of community-held data as appropriate.
+
 ### Oscar Luis Figueroa Rodriguez
 
 With a background in rural sociology, development studies, and agricultural engineering, **Oscar Figueroa R.** has been working issues related to the governance of Indigenous data globally, with a special interest in Mexico and Latin America. An original signee of the CARE Principles and a member of the Global Indigenous Data Alliance, he is interested in enhancing ways to assert Indigenous Peoples' rights and interests in data. Originally from Texcoco, State of Mexico, he serves as an Associate Research Professor in the Rural Development Studies Program at the *Colegio de Posgraduados* (COLPOS, México), working from a complex systems perspective to study the commons, participatory planning, and regional development. 
-
-### Alicia Gibb
-
-**Alicia Gibb** is an advocate for open hardware, researcher, and a hardware hacker. Alicia has worked within the open source hardware community since 2008. She is the founder and Executive Director of the Open Source Hardware Association (OSHWA), a non-profit organization to educate the benefits of building and using open source hardware. Alicia founded the Association after founding and chairing the Open Hardware Summit, a conference where the open source hardware community discusses business, manufacturing, legal implications, and all things open source hardware.
-
-### Ben Goering
-
-**Ben Goering** is a decentralized and federated web engineer who previously worked for Protocol Labs. Ben brings his experience with “dweb” to the work we are doing to build common infrastructures and protocols for collaborative socio-environmental research. He has been active in the San Francisco Bay Area in various community initiatives, including most notably ActivityPub.
 
 ### Scott Frickel
 
@@ -57,6 +61,14 @@ With a background in rural sociology, development studies, and agricultural engi
 ### WarīŇkwī Flores
 
 **WarīŇkwī Flores** (sibling/hir) is a PhD student in Natural Resources specializing in Indigenous Komplexity Systems Theory and BioKulture Research Design. Hir research focuses on agroecology systems metabolism, Indigenous data sovereignty and governance ('Data Kinship'), and digital stewardship within environmental DNA ('dimension-verse’ eDNA). WarīŇkwī advocates for biocultural intellectual property rights, the empowerment of Indigenous Peoples, and the integration of social ecology value systems, including Indigenous economic frameworks, to promote resilient, culturally-informed environmental solutions.
+
+### Alicia Gibb
+
+**Alicia Gibb** is an advocate for open hardware, researcher, and a hardware hacker. Alicia has worked within the open source hardware community since 2008. She is the founder and Executive Director of the Open Source Hardware Association (OSHWA), a non-profit organization to educate the benefits of building and using open source hardware. Alicia founded the Association after founding and chairing the Open Hardware Summit, a conference where the open source hardware community discusses business, manufacturing, legal implications, and all things open source hardware.
+
+### Ben Goering
+
+**Ben Goering** is a decentralized and federated web engineer who previously worked for Protocol Labs. Ben brings his experience with “dweb” to the work we are doing to build common infrastructures and protocols for collaborative socio-environmental research. He has been active in the San Francisco Bay Area in various community initiatives, including most notably ActivityPub.
 
 ###  Kyle Harp-Rushing
 
@@ -70,10 +82,13 @@ With a background in rural sociology, development studies, and agricultural engi
 
 **Pen-Yuan Hsing** (he/they) is a postdoctoral researcher at the University of Bristol, United Kingdom. Much of Pen's work is “research on research,” applying academic rigor to solving systemic problems in the research community. Pen is an advocate for open research, having taken on an advisory role for the NASA Transform to Open Science (TOPS) mission, worked with UNESCO on developing and implementing their Recommendation on Open Science, and has served as a member of The Turing Way. Pen has been active in open source tech communities for more than a decade. Currently, he is a board member of the Open Science Hardware Foundation, which advocates for open source hardware in open science policies.
 
-
 ### Nancy Hoebelheinrich
 
 **Nancy Hoebelheinrich** is an independent scholar, information analyst, consultant and educator who leads her own small business, Knowledge Motifs LLC from San Mateo, California.  As an information science researcher and educator focused on data stewardship, organization, retrieval, management and skills training, and digital libraries, Nancy has been involved in a number of initiatives on these topics for academic institutions such as Stanford University, the University of California Office of the President, the University of California San Diego (UCSD), non-governmental organizations such as the San Francisco Estuary Institute, the Library of Congress, and community organizations including GO FAIR US, EarthCube, the Research Data Alliance, and Earth Science Information Partners.   Her focus has been upon data description (metadata), and development of learning resources for researchers and data specialists.
+
+### Kirk Jalbert
+
+**Kirk Jalbert** is a scholar affiliated with Arizona State University's School for the Future of Innovation in Society. He does research exploring public engagements with environmental science and governance in the context of energy justice movements and how the interplay of data mobilizations, information technologies, and community-driven scientific research efforts shapes them. Kirk intersects critical making, art, and Science and Technology Studies in his work. 
 
 ### Erin Kansa {#I}
 
@@ -90,10 +105,6 @@ Eric currently oversees the development of Open Context, an open-access data pub
 ### Christine Kirkpatrick
 
 **Christine Kirkpatrick** leads the San Diego Supercomputer Center's (SDSC) Research Data Services division. There, she is in charge of large-scale infrastructure, networking, and services for research projects of regional and national scope. She also heads the GO FAIR US initiative, serves as Secretary General of CODATA, and is a Principal Investigator for the EarthCube Office, the West Big Data Innovation Hub, the U.S. National Committee for CODATA for the National Academies of Sciences, Engineering, and Medicine, and the FAIR Digital Object Forum. Christine's work connects open access, data management, and digital libraries.
-
-### Kirk Jalbert
-
-**Kirk Jalbert** is a scholar affiliated with Arizona State University's School for the Future of Innovation in Society. He does research exploring public engagements with environmental science and governance in the context of energy justice movements and how the interplay of data mobilizations, information technologies, and community-driven scientific research efforts shapes them. Kirk intersects critical making, art, and Science and Technology Studies in his work. 
 
 ### Madhuri Karak
 
@@ -138,6 +149,10 @@ Alex Pazaitis is researcher at the Ragnar Nurkse Department of Innovation and Go
 ### Alison Parker
 
 **Alison Parker**, PhD, specializes in promoting innovative approaches to science and technology, including citizen science and open hardware. She served as Senior Policy Advisor at the White House Office of Science and Technology Policy. At the Woodrow Wilson International Center for Scholars, she was a Senior Program Associate at the Science and Technology Innovation Program (STIP). Alison has served on the Board of Directors and as Chair of the Citizen Science Association, and she was a member of the Editorial Board for Citizen Science: Theory and Practice. Previously, she led initiatives at the U.S. Environmental Protection Agency to incorporate crowdsourcing and citizen science into research and decision-making. Alison earned her PhD from the University of Toronto’s Department of Ecology and Evolutionary Biology, focusing on native pollinators and citizen science. 
+
+### Monica Ramize-Andreotta
+
+**Dr. Monica Ramirez-Andreotta** is an assistant professor of Soil, Water, and Environmental Science (SWES) at the University of Arizona, with a joint appointment in the Mel and Enid Zuckerman College of Public Health. With a multidisciplinary background that includes Ecology, Evolutionary Biology, Studio Art, and Public Administration, and a Ph.D. in SWES, she specializes in citizen science and environmental justice. Her work focuses on developing low-cost monitoring tools and risk communication strategies to enhance public participation and understanding of environmental health, notably engaging underserved communities through projects like Gardenroots, a co-created citizen science project. Recognized with the  National Institute of Environmental Health Sciences (NIEHS) Karen Wetterhahn Memorial Award, she is dedicated to advancing equitable environmental health research and community engagement.
 
 ### Erin Robinson
 
