@@ -119,6 +119,10 @@ Eric currently oversees the development of Open Context, an open-access data pub
 
 **Mark Parsons** is a Research Scientist and geographer at the University of Alabama in Huntsville. He has been involved in several initiatives to make scientific research more open and accessible and has led significant data stewardship efforts for over 25 years. Mark has helped coordinate stewardship of a broad range of data, from satellite remote sensing to Indigenous knowledge of Arctic change.
 
+### Alex Pazaitis
+
+Alex Pazaitis is researcher at the Ragnar Nurkse Department of Innovation and Governance, Tallinn University of Technology and Core Member of P2P Lab. He is also a visiting researcher at the Post-Growth Innovation Lab, University of Vigo and a visiting lecturer at the Autonomous University of Barcelona. Since 2023 Alex is leading ‘Life after growth’ a research & practice project exploring post-growth pathways of collective action and organising. Alex’s research is focusing on value perceptions from a commons perspective and implications for technology and organisational practices. He has extensive experience from research and innovation projects and project management, and has worked as a consultant for private and public organisations. His research interests include digital commons; theory of value; innovation policy; cooperativism; and distributed ledger technologies.
+
 ### Kathy Pope
 
 **Kathy Pope** serves as the Environmental Protection Network's Development Director and Community Outreach Manager. At EPN, Kathy manages EPN's development work and the pro bono capacity-building technical assistance program, with more than 550 EPA alumni from all over the United States that volunteer their time to protect the integrity of EPA, human health, and the environment.
